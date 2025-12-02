@@ -35,6 +35,10 @@ UDL-DHH integrates UDL principles with DHH-specific needs, emphasizing:
 - `artifacts/templates/` - Ready-to-use checklists and tools
 - `tests/scenarios/` - Real classroom examples
 
+## Try a Demo
+
+Experience the UDL-DHH Framework in action with our interactive AI demo: [KTR Universal Design for Learning - The DHH Lens](https://chatgpt.com/g/g-692f4866089c819196ddd5ee814046ae-ktr-universal-design-for-learning-the-dhh-lens)
+
 ## Why Use UDL-DHH?
 
 - **Evidence-Based**: Strategies include clear implementation steps and success indicators
