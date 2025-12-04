@@ -163,3 +163,44 @@ In Science ($F=ma$) and Coding (`if x > 10`), symbols represent relationships. D
 * **Negative Signal (Failure Modes):**
     * Telling students to "Just memorise the formula."
     * Assuming students understand that `$x$` and `$X$` are the same thing (or different).
+
+---
+
+## Strategy Node: Mathematical Discourse & Explanation
+
+<metadata>
+id: dom_f_math_discourse
+name: Mathematical Discourse & Explanation
+type: metacognitive_strategy
+target_constraint: ["rote_calculation", "inability_to_explain", "passive_learning"]
+complexity: high
+time_required: continuous_routine
+</metadata>
+
+### Core Logic (The "Why")
+Current Domain F is strong on visual math tools but missing how DHH students EXPLAIN their mathematical thinking verbally/in writing. DHH students often learn "procedures" (rote steps) without understanding the "why." We must force the externalization of the internal logic to ensure true mastery.
+
+### Implementation Spec (I Do -> We Do -> You Do)
+* **Phase 1: Modeling (I Do - The Think-Aloud)**
+    * Teacher solves a problem while explicitly speaking/signing their thinking process: *"First I looked at... Then I tried... I know this because..."*
+    * **Sentence Stems:** Teacher points to a "Math Talk" poster with stems like *"I started by..."* and *"My evidence is..."*.
+    * **Vocabulary Link:** Teacher explicitly links symbols to action words (e.g., $\div$ = "split into groups").
+* **Phase 2: Guided Practice (We Do - The Interview)**
+    * **Partner Protocol:** Pairs solve a problem. Partner A solves while Partner B holds a **"Tell Me More"** card.
+    * Partner B prompts explanation at each step, preventing silent calculation.
+    * **Error Analysis:** Class looks at a "Wrong Answer" together and explains *WHY* it is wrong, not just fixing it.
+* **Phase 3: Independent Application (You Do - The Journal)**
+    * Student writes/signs a "Math Explanation" for one problem using the sentence stem menu:
+        * *"I started by ___"*
+        * *"Then I ___"*
+        * *"This works because ___"*
+
+### Evidence Guide (The Rubric)
+* **Positive Signal (Success):**
+    * Sentence stems are visible and used during pair work.
+    * Students explain *why* they did a step, not just *what* they did.
+    * Error analysis is a regular part of the lesson.
+* **Negative Signal (Failure Modes):**
+    * Silent calculation without explanation.
+    * Accepting the correct answer without asking for the method.
+    * "Copying" the teacher's steps without understanding.

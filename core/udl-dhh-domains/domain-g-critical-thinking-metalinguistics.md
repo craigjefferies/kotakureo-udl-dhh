@@ -37,8 +37,52 @@ DHH students often have one "mode" of communication. They do not intuitively gra
     * Students explicitly ask: "Is this for friends or for the teacher?"
     * Teacher corrects tone ("Too casual") not just grammar.
 * **Negative Signal (Failure Modes):**
-    * Allowing slang/informal signing during formal presentations.
-    * Correcting the work *for* the student without explaining the register shift.
+    * Reading the text cold without context.
+    * Showing the video *after* the lesson as a "reward" (missed scaffolding opportunity).
+
+---
+
+## Strategy Node: Reading Comprehension Strategies (Reciprocal Teaching)
+
+<metadata>
+id: dom_g_reciprocal_teaching
+name: Reciprocal Teaching & Comprehension Monitoring
+type: metacognitive_strategy
+target_constraint: ["passive_reading", "comprehension_breakdown", "lack_of_monitoring"]
+complexity: high
+time_required: continuous_routine
+</metadata>
+
+### Core Logic (The "Why")
+DHH students often "bark at print" (decode without understanding). They need systematic tools to monitor their own comprehension. We externalize these internal processes using physical roles and visual cards.
+
+### Implementation Spec (I Do -> We Do -> You Do)
+* **Phase 1: Modeling (I Do - The Roles)**
+    * Teacher introduces the **4 Strategy Cards** with visual icons:
+        * **Predict (Crystal Ball):** *"I think the text will be about..."*
+        * **Question (Question Mark):** *"I wonder why..."* (QAR: Right There vs. Think & Search).
+        * **Clarify (Magnifying Glass):** *"I don't understand this word/idea..."*
+        * **Summarize (Notepad):** *"The main point was..."*
+    * Teacher reads a paragraph and explicitly "plays" one card: *"I am holding the Magnifying Glass. This word 'vast' is tricky. I think it means big."*
+* **Phase 2: Guided Practice (We Do - The Circle)**
+    * **Reciprocal Teaching Circle:** Small group reads a text.
+    * Each student holds a physical card and is responsible for that job.
+    * **Inference Equation:** Teacher displays the visual formula: **Text Clues + My Knowledge = Inference**.
+* **Phase 3: Independent Application (You Do - The Tracker)**
+    * Student uses a **4-Column Note Template** (Predict | Question | Clarify | Summarize).
+    * Student must fill in at least one entry per column while reading independently.
+    * **Main Idea Sort:** Student physically sorts detail cards under "Main Idea Umbrellas" to prove structure.
+
+### Evidence Guide (The Rubric)
+* **Positive Signal (Success):**
+    * Strategy cards are physical and on the table.
+    * Students ask "Clarifying" questions (admitting confusion) without shame.
+    * The "Inference Equation" is visible on the wall.
+* **Negative Signal (Failure Modes):**
+    * Teacher asks all the questions (Teacher-led vs. Reciprocal).
+    * Students just read silently without stopping to process.
+    * "Summaries" are just copying the first sentence.
+
 
 ---
 

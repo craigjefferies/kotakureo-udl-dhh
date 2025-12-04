@@ -270,3 +270,48 @@ DHH students often store facts in isolation. We must force the brain to visually
     * Teacher hands out a filled-in worksheet (no thinking required).
     * Teacher asks "Do you remember...?" (Auditory recall) without a visual prompt.
     * The map has no labels or relating factor.
+
+---
+
+## Strategy Node: Extended Writing Process & Revision
+
+<metadata>
+id: dom_a_writing_process
+name: Extended Writing & Visual Revision
+type: instructional_routine
+target_constraint: ["choppy_sentences", "lack_of_cohesion", "stuck_at_sentence_level"]
+complexity: high
+time_required: full_lesson_series
+</metadata>
+
+### Core Logic (The "Why")
+Current frameworks often stop at the sentence level. DHH students need explicit instruction on moving from sentences $\to$ paragraphs $\to$ full compositions. We must make the *revision process* visible and concrete, not abstract.
+
+### Implementation Spec (Gradual Release)
+* **Phase 1: Modeling (I Do - The Color Code)**
+    * Teacher displays a "rough draft" paragraph on the board.
+    * **Visual Revision System:** Teacher uses specific colours to model thinking:
+        * **Green:** Add detail (Adjectives/Adverbs).
+        * **Red:** Delete repetition or errors.
+        * **Blue:** Move sentences (Structure).
+        * **Orange:** Replace a "weak word" with a "strong word" (Synonym).
+    * Teacher thinks aloud: *"This word 'good' is boring (Orange). I will change it to 'excellent'."*
+* **Phase 2: Guided Practice (We Do - The Shared Edit)**
+    * Class revises a shared paragraph together on the board.
+    * Teacher asks: *"Where can we add a Green detail?"*
+    * Students discuss and agree on the changes, watching the text transform.
+    * **Transition Word Scaffolding:** Teacher points to a "Connector Menu" (First, Next, However) to link ideas.
+* **Phase 3: Independent Application (You Do - The Marker Check)**
+    * Student writes their own draft.
+    * **The Self-Audit:** Before handing it in, the student *must* use the markers to make at least 3 changes (e.g., one Green, one Orange).
+    * Student writes the final "Clean Copy" only after the markup is done.
+
+### Evidence Guide (The Rubric)
+* **Positive Signal (Success):**
+    * Student drafts are messy with specific colour codes (evidence of thinking).
+    * The "Connector Menu" is visible on the wall.
+    * Students use the "Star-Wish-Wonder" format for peer review.
+* **Negative Signal (Failure Modes):**
+    * Student hands in the first draft as the final copy.
+    * Teacher corrects the work *for* the student (Red pen) instead of the student doing it.
+    * Focus is only on spelling, not structure or vocabulary.
