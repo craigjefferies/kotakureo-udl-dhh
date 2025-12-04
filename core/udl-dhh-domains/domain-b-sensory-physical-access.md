@@ -22,6 +22,8 @@ Auditory processing for DHH students is manual, not automatic. It burns glucose 
 * **Phase 1: Teacher Setup (System Design)**
     * **Acoustic Triage:** Teacher installs tennis balls on chair legs, closes doors/windows *before* instruction, and turns off projector fans when not in use.
     * **Caption Default:** Teacher enables Closed Captions (CC) on the video player *before* the class enters. It is never an afterthought.
+    * **Visual Safety (Glare Check):** Teacher sits in the student's chair to ensure the whiteboard/teacher station is not backlit by a window.
+    * **Sightlines (Horseshoe):** Desks are arranged in a horseshoe or semi-circle so DHH students can see peers' faces during discussion.
 * **Phase 2: Class Routine (Shared Norms)**
     * **"Eyes/Ears Off" Blocks:** Teacher calls a "Brain Break" (2 mins). Rule: No looking, no listening. Heads down or eyes closed. This resets the sensory cortex.
     * **One Voice Rule:** Teacher strictly enforces that only one person speaks at a time to prevent "auditory clutter."

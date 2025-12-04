@@ -28,6 +28,7 @@ DHH learners often have "auditory blindness" to high-frequency, low-energy sound
     * Teacher holds up a "Plural S" card or "Red Light" card.
     * Class scans a text together. When they find the grammar marker, they physically signal (hold up card/snake hand).
     * Teacher highlights the word on the board to confirm.
+    * **Technique C (The Chain):** Teacher points to the written word (Print), signs it (NZSL), fingerspells it (Manual Alphabet), and points back to the word (Print). This sequence locks the concept to the orthography.
 * **Phase 3: Independent Application (You Do)**
     * Students use green/red highlighters on their own worksheet to "code" the words *before* answering questions.
 

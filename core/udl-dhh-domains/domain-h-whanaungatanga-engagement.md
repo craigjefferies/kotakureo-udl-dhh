@@ -112,3 +112,29 @@ Teachers often assume access is happening. We need hard data. We replace "Did yo
     * Asking "Do you understand?" (The worst question).
     * Treating the "Safe Break" as "Avoiding Work."
     * Ignoring low access ratings.
+
+---
+
+## Strategy Node: Deaf Identity & Culture (Affirmation)
+
+<metadata>
+id: dom_h_deaf_identity
+name: Cultural Affirmation & Deaf Norms
+type: cultural_integration
+target_constraint: ["identity_confusion", "cultural_isolation", "negative_self_image"]
+complexity: medium
+time_required: incidental
+</metadata>
+
+### Core Logic (The "Why")
+If the only "Deafness" in the room is the student's disability, they feel isolated. We must integrate Deaf history and norms so the student sees their identity as a valid way of being, not a deficit.
+
+### Implementation Spec (Model -> Normalise)
+* **Phase 1: History Spotlight (I Do)**
+    * **The "Did You Know?":** When teaching a topic, link it to a Deaf historical figure (e.g., *Science -> Thomas Edison (HoH)* or *Space -> Annie Jump Cannon*).
+    * **Deaf Events:** Explicitly mention current events like NZSL Week or local Deaf Club events as valid community news.
+* **Phase 2: Deaf Norms (We Do)**
+    * **Explicit Norms:** Teach the whole class Deaf ways of being:
+        * *Getting Attention:* It is polite to tap a shoulder or wave, not shout.
+        * *Lights:* Flashing the lights means "Stop/Look," not a prank.
+        * *Eye Contact:* Breaking eye contact while someone is signing is considered interrupting.

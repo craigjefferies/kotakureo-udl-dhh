@@ -22,11 +22,12 @@ The human brain cannot process complex visual input (diagram/text) and complex l
 * **Phase 1: Teacher Habit (System)**
     * **"Show, Freeze, Tell":**
         1. Point to the image/text.
-        2. **Freeze** your body (stop moving/talking) for 3-5 seconds to let them look.
+        2. **Freeze** your body (stop moving/talking) for 3-5 seconds. *Why?* To allow the student's gaze to travel from the image back to your face.
         3. Turn to face the class and *then* explain it.
     * **The "Board Turn":** Never speak/sign while writing on the board. Write first, stop, turn, then speak.
 * **Phase 2: Class Norm (Routine)**
     * **The "Modality Switch":** If using an interpreter, the teacher pauses after significant chunks to allow the interpreter to finish, ensuring the student isn't watching the interpreter while the teacher changes the slide.
+    * **The Visual Baton:** To prevent students speaking over each other (which is visually inaccessible), students must raise a hand or hold a physical object to claim the "Visual Floor" before speaking/signing.
 * **Phase 3: Student Autonomy**
     * Student is empowered to signal "Hold" or "Too Fast" if the visual and the explanation overlap.
 
