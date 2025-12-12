@@ -1,287 +1,340 @@
- are going to be used as # Domain 1: Access Foundations – Sensory, Physical & Multi-Modal Input
+# Domain 1: Access Foundations – Sensory, Physical & Multi-Modal Input
 
-**Context:**  
-This domain establishes the **non-negotiable baseline** for DHH learning. It combines the **Environmental Layer** (Physical & Sensory Access) with the **Instructional Input Layer** (Multi-Modal Design).
+**Non-negotiables**
+- **One visual source:** Never talk/sign while students read, watch, or write.
+- **Captions always:** No exceptions. If failed, provide transcript/summary immediately.
+- **Noise budget:** Manage background noise; warn before loud activities.
+- **Sightlines:** Student sees teacher, interpreter, and board without twisting.
+- **Pausing:** Stop → Get Eyes → Deliver Language.
+- **No SimCom:** Don't speak and sign simultaneously if grammar degrades.
 
-The core logic is simple:
-> If the environment is toxic (noisy, visually chaotic, unsafe) OR the input is unstructured (simultaneous communication overload), **no amount of quality teaching will land.**
-
-We must first **clear the channel** (Domain 1A) and then **structure the signal** (Domain 1B).
+**Triage flow**
+1. **Clear Channel:** Quiet, lit, safe space? (Domain 1A)
+2. **Structure Signal:** Input separated into visual/linguistic chunks? (Domain 1B)
+3. **Check Receiver:** Student fatigued/overloaded?
+4. **Teach:** Proceed only when 1-3 are green.
 
 ---
 
 ## Subdomain 1A: The Whare (Sensory & Physical Environment)
-*Focus: Preventing overload, managing fatigue, and ensuring safety.*
 
-### Strategy Node: Managing Listening Fatigue
+### Strategy Node: Fatigue Management & Acoustic Triage
 
 <metadata>
-id: dom_b_fatigue
-name: Fatigue Management & Acoustic Triage
-type: environmental_setup
-target_constraint: ["auditory_fatigue", "behavioral_outbursts", "cognitive_exhaustion", "withdrawal"]
-triggers: ["tired", "rubbing eyes", "headache", "zoning out", "acting out in afternoon", "grumpy", "switched off"]
-complexity: low
-time_required: continuous_policy
+id: dom_1a_fatigue
+title: Fatigue Management & Acoustic Triage
+subdomain: 1A
+trigger_signs: ["rubbing eyes", "head on desk", "zoning out", "afternoon outbursts", "withdrawal"]
+do_now_2min: Move student away from hums. 2-min "silence break".
+build_20min: Map timetable. Heavy listening in AM. Schedule "brain breaks".
+success_looks_like: Attention maintained in PM; fewer behavioral spikes.
+common_failure_mode: Ignoring "zoning out" as laziness vs exhaustion.
+admin_enabler: Flexible timetabling (core subjects AM).
 </metadata>
 
-**Problem / Access Barrier:**  
-DHH students experience **listening fatigue** rapidly due to the cognitive load of decoding incomplete auditory input and lipreading. This often looks like "behavioral" issues or sudden withdrawal.
+**Problem/Barrier**
+DHH students burn energy decoding incomplete audio/lipreading. "Listening fatigue" mimics disengagement but is physiological.
 
-**High-Leverage Practice: "Fatigue-First Timetabling & Micro-Breaks"**
-1.  **Timetable Design:** Schedule language-heavy tasks earlier; hands-on tasks later.
-2.  **Micro-Breaks:** Every 15–20 mins, a 2-minute "brain break" (no new language input).
-3.  **Acoustic Triage:** Seat student away from noise sources (fans, heaters) and close to visual focus.
+**High-Leverage Practice: Fatigue-First Design**
+1. **Front-Load:** New/complex input in morning.
+2. **Micro-Breaks:** 2-min break every 20 mins.
+3. **Visual Offloading:** Written instructions to reduce listening load.
+4. **Exit Pass:** Signal for "2 minutes outside."
 
-**Evidence Guide:**
-*   *Success:* Student maintains visual tracking near end of lessons; outbursts reduce.
-*   *Failure:* Student "switches off" or acts out mid-lesson; teacher ignores fatigue signs.
+**Evidence Guide**
+- *Success:* Responsible exit pass use; regulated in Period 5.
+- *Failure:* Pushing through "tiredness" leads to meltdown/shutdown.
 
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** "Quiet Corner" (beanbag/tent) with a visual "battery low" card they can place on their desk.
-*   **Secondary (Y7-13):** "Exit Pass" or agreed non-verbal signal to step out for 2 mins. Negotiated "Headphones On" time for independent work.
+**Age/Stage Variations**
+- **Primary:** "Quiet Corner" (tent/beanbag).
+- **Secondary:** Negotiated "Headphones On" time.
 
 ---
 
-### Strategy Node: Visual Attention Management
+### Strategy Node: Visual Attention & Focus Anchors
 
 <metadata>
-id: dom_b_visual_attention
-name: Visual Attention & Focus Anchors
-type: environmental_setup
-target_constraint: ["visual_overload", "missed_instructions", "constant_re-orientation"]
-triggers: ["looking around", "distracted", "missed instructions", "doesn't know what to do", "watching friends", "scanning room"]
-complexity: low
-time_required: continuous_policy
+id: dom_1a_visual_attention
+title: Visual Attention & Focus Anchors
+subdomain: 1A
+trigger_signs: ["looking around wildly", "copying peers late", "missed instructions", "anxious scanning"]
+do_now_2min: Point to exact spot with stick/pointer.
+build_20min: "Visual Agenda" on whiteboard with ticked steps.
+success_looks_like: Student tracks active speaker/source immediately.
+common_failure_mode: Speaking while student searches for page/resource.
+admin_enabler: Laser pointers/whiteboard space.
 </metadata>
 
-**Problem / Access Barrier:**  
-Competing visual stimuli (teacher, interpreter, slides, peers) split attention. DHH students cannot watch two things at once.
+**Problem/Barrier**
+DHH students can't "listen with one ear" while looking elsewhere. Missing the visual target means missing the message.
 
-**High-Leverage Practice: "One-Focus-At-A-Time"**
-1.  **One Focus Source:** Only one active visual source at a time (e.g., stop signing to show a video).
-2.  **Visual Anchors:** Use fixed visual cues (numbered steps, icons) on the board.
-3.  **Cue Before View:** "Look at this picture" -> Pause -> Explain.
+**High-Leverage Practice: One-Focus-At-A-Time**
+1. **Anchor:** Point to target (board, object, person).
+2. **Pause:** Wait for eyes.
+3. **Explain:** Deliver content ONLY when eyes fixed.
+4. **Switch:** Stop talking before pointing to new target.
 
-**Evidence Guide:**
-*   *Success:* Student tracks correct speaker; follows multi-step instructions.
-*   *Failure:* Student scans wildly between sources; instructions given while student is looking away.
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** "Mat Spots" (tape on floor) to define where to look. Teacher uses a puppet or wand to direct gaze.
-*   **Secondary (Y7-13):** Laser pointer on whiteboard. Explicit "Look here" verbal cues. Numbered agenda on board to track progress.
+**Evidence Guide**
+- *Success:* Smooth gaze-switching; immediate task start.
+- *Failure:* Constant room scanning to check peers.
 
 ---
 
 ### Strategy Node: Physical Space & Safety Positioning
 
 <metadata>
-id: dom_b_physical_space
-name: Safe Seating & Line-of-Sight Planning
-type: environmental_setup
-target_constraint: ["blocked_line_of_sight", "unsafe_movement_patterns", "missed_visual_information"]
-triggers: ["can't see", "turning around", "moving chair", "safety concerns", "fire drill issues", "leaning"]
-complexity: low
-time_required: initial_setup_plus_monitoring
+id: dom_1a_physical_space
+title: Safe Seating & Line-of-Sight Planning
+subdomain: 1A
+trigger_signs: ["twisting in chair", "standing up to see", "moving furniture", "startled by people"]
+do_now_2min: Sit in student's chair to check sightlines.
+build_20min: U-shape/semi-circle desks for peer sightlines.
+success_looks_like: Static, clear view of all sources without moving.
+common_failure_mode: Front seating with back to class (misses peers).
+admin_enabler: Cap class sizes for U-shape arrangements.
 </metadata>
 
-**Problem / Access Barrier:**  
-Blocked sightlines prevent access to teacher/interpreter. In emergencies, auditory alarms may be missed.
+**Problem/Barrier**
+Rows block peer/interpreter sightlines. Blocked vision = zero access.
 
-**High-Leverage Practice: "Line-of-Sight Map"**
-1.  **Audit:** Check sightlines from the student's chair (teacher, interpreter, board).
-2.  **U-Shape Seating:** Enables peer-to-peer visual access.
-3.  **Visual Safety:** Flashing lights or specific visual cues for alarms/drills.
+**High-Leverage Practice: The Golden Triangle**
+1. **Triangle Setup:** Teacher, Interpreter, Student form triangle.
+2. **Back to Wall:** Minimize visual distractions behind speaker.
+3. **Light Source:** On speaker's face, not behind (silhouetting).
+4. **Visual Alarms:** Visual triggers for drills (lights/cards).
 
-**Evidence Guide:**
-*   *Success:* Student rarely needs to reposition to see; moves with peers during drills.
-*   *Failure:* Student leans/twists to see; is delayed in emergency response.
+**Evidence Guide**
+- *Success:* Participation in discussions; sees who is talking.
+- *Failure:* Ignores peers; looks only at teacher.
 
 ---
 
 ### Strategy Node: Sensory Load & Noise Management
 
 <metadata>
-id: dom_b_noise
-name: Sensory Load Tuning
-type: environmental_setup
-target_constraint: ["noise_sensitivity", "startle_response", "background_noise_interference"]
-triggers: ["too loud", "hands over ears", "startled", "complains about noise", "hearing aid feedback", "noisy classroom"]
-complexity: medium
-time_required: initial_audit_plus_routines
+id: dom_1a_noise
+title: Sensory Load Tuning
+subdomain: 1A
+trigger_signs: ["hands over ears", "turning off hearing aids", "headache complaints", "startled"]
+do_now_2min: Close windows/doors. Off background music.
+build_20min: Install "hush" materials (tennis balls, felt pads).
+success_looks_like: Devices kept on; participation without distress.
+common_failure_mode: "Background music" destroys signal-to-noise ratio.
+admin_enabler: Fund acoustic treatments.
 </metadata>
 
-**Problem / Access Barrier:**  
-Background noise masks speech for hearing aid/CI users. Sudden noises cause startle/distress.
+**Problem/Barrier**
+Aids/CIs amplify everything. Noise masks speech. Sudden loud noises can be painful.
 
-**High-Leverage Practice: "Noise Budget"**
-1.  **Audit & Limit:** Identify noise sources; set "quiet zones".
-2.  **Visual Noise Meter:** Use traffic light system for class volume (Green=Quiet, Red=Loud).
-3.  **Predictability:** Warn before loud activities; allow ear defenders if needed.
+**High-Leverage Practice: The Noise Budget**
+1. **Audit:** Eliminate constant hums.
+2. **Traffic Lights:** Visual noise meter.
+3. **Predictability:** Warn before loud noises.
+4. **Zones:** "Quiet zone" for independent work.
 
-**Evidence Guide:**
-*   *Success:* Student remains engaged during group work; requests breaks appropriately.
-*   *Failure:* Student turns off devices frequently; startles easily.
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** "Yacker Tracker" (traffic light noise meter). Tennis balls on chair legs.
-*   **Secondary (Y7-13):** Negotiated "One Voice" rule during discussions. Use of text-based chat for group work to reduce acoustic load.
+**Evidence Guide**
+- *Success:* Self-regulation to quiet zones; asks peers to quieten.
+- *Failure:* Removes equipment; agitated in groups.
 
 ---
 
 ### Strategy Node: Transition & Movement Routines
 
 <metadata>
-id: dom_b_transitions
-name: Calm Transitions & Visual Routines
-type: environmental_setup
-target_constraint: ["confusion_during_transitions", "lost_instructions_when_moving", "heightened_anxiety"]
-triggers: ["lost during changeover", "wandering", "anxious when moving", "chaos", "doesn't line up", "running"]
-complexity: low
-time_required: routine_building
+id: dom_1a_transitions
+title: Calm Transitions & Visual Routines
+subdomain: 1A
+trigger_signs: ["wandering", "asking 'what do I do?'", "following peers blindly"]
+do_now_2min: Visual signal before instructions.
+build_20min: Teach "Stop-Look-Listen" routine.
+success_looks_like: Stops, looks, gets instruction before moving.
+common_failure_mode: Shouting instructions during movement.
+admin_enabler: Visual alert systems in tech/science.
 </metadata>
 
-**Problem / Access Barrier:**  
-Instructions given *during* movement are lost. Transitions are high-anxiety moments.
+**Problem/Barrier**
+Auditory instructions during movement are lost. Transitions cause anxiety/disorientation.
 
-**High-Leverage Practice: "Stop–See–Shift"**
-1.  **Stop:** Visual signal to freeze movement.
-2.  **See:** Ensure eye contact.
-3.  **Shift:** Give instruction (visually supported) *before* movement resumes.
+**High-Leverage Practice: Stop–See–Shift**
+1. **Freeze:** Visual signal to stop movement.
+2. **Lock Eyes:** Wait for silence/attention.
+3. **Instruct:** Short, clear instruction.
+4. **Release:** Signal movement start.
 
-**Evidence Guide:**
-*   *Success:* Smooth transitions; student arrives at correct task/location with peers.
-*   *Failure:* Teacher talks while class moves; student follows peers blindly.
+**Evidence Guide**
+- *Success:* Purposeful move to next task.
+- *Failure:* Lost, waits for peers, copies.
 
 ---
 
 ## Subdomain 1B: Dual Coding (Multi-Modal Instruction)
-*Focus: Optimally sequencing visual, signed, and written input.*
 
 ### Strategy Node: Anti-SimCom & Modality Separation
 
 <metadata>
-id: dom_c_antisimcom
-name: Anti-SimCom & Clear Modality Phases
-type: instructional_delivery
-target_constraint: ["split_attention", "missed_grammar", "overload_when_teacher_talks_and_signs"]
-triggers: ["confused by teacher", "teacher talks too fast", "can't follow", "overwhelmed", "simcom", "talking and signing"]
-complexity: medium
-time_required: planning_plus_in_class_habits
+id: dom_1b_antisimcom
+title: Anti-SimCom & Clear Modality Phases
+subdomain: 1B
+trigger_signs: ["confused expression", "rapid looking back/forth", "giving up"]
+do_now_2min: Separate actions: Show slide. PAUSE. Talk.
+build_20min: Record 5 mins. Reduce talking while pointing/writing by 50%.
+success_looks_like: Time to process visual before audio.
+common_failure_mode: SimCom - talking and signing poorly simultaneously.
+admin_enabler: PLD on "Deaf-friendly delivery".
 </metadata>
 
-**Problem / Access Barrier:**  
-"Simultaneous Communication" (talking and signing at full speed) degrades both languages and splits attention.
+**Problem/Barrier**
+Brain can't process complex visual/audio simultaneously. Split attention = overload/missed info.
 
-**High-Leverage Practice: "Look – Language – Link"**
-1.  **Look:** Show visual (slide/object). Pause.
-2.  **Language:** Explain in NZSL/English (without pointing).
-3.  **Link:** Point back to visual to connect concept.
+**High-Leverage Practice: Look – Language – Link**
+1. **Look:** Show visual. Say nothing.
+2. **Language:** Face class. Explain (Speech/Sign).
+3. **Link:** Point back to connect label to concept.
+4. **Repeat:** Cycle distinctively.
 
-**Evidence Guide:**
-*   *Success:* Student recalls concepts accurately; eyes focus steadily (not flicking).
-*   *Failure:* Teacher talks/signs/clicks simultaneously; student looks overwhelmed.
+**Evidence Guide**
+- *Success:* Looking at right place at right time.
+- *Failure:* Talking while writing on board.
 
 ---
 
 ### Strategy Node: Dual Coding of Concepts
 
 <metadata>
-id: dom_c_dualcoding
-name: Concept Maps & Visual-Linguistic Pairing
-type: instructional_delivery
-target_constraint: ["abstract_concepts_not_sticking", "vague_comprehension", "difficulty_with_inferencing"]
-triggers: ["doesn't understand concepts", "forgets quickly", "needs pictures", "abstract ideas hard", "vocabulary gap"]
-complexity: medium
-time_required: resource_preparation_plus_modelling
+id: dom_1b_dualcoding
+title: Concept Maps & Visual-Linguistic Pairing
+subdomain: 1B
+trigger_signs: ["vocabulary gaps", "rote learning", "blank faces on abstract terms"]
+do_now_2min: Google icon/image for key concept. Put on slide.
+build_20min: Create/print "Concept Skeleton" (mind map).
+success_looks_like: Points to image to explain concept.
+common_failure_mode: Verbal-only definitions of abstract concepts.
+admin_enabler: Visual symbol library subscriptions.
 </metadata>
 
-**Problem / Access Barrier:**  
-Abstract concepts (e.g., "democracy") are hard to retain from verbal/signed explanations alone.
+**Problem/Barrier**
+Abstract words hard to lipread/remember without visual hook. Verbal-only relies on damaged auditory channel.
 
-**High-Leverage Practice: "Concept Skeletons"**
-1.  **Visual Structure:** Mind maps, flowcharts, timelines.
-2.  **Labeling:** Pair NZSL sign + Written English + Icon.
-3.  **Retrieval:** Have student reconstruct the map.
+**High-Leverage Practice: Concept Skeletons**
+1. **Visual Anchor:** Icon/image for key terms.
+2. **Spatial Layout:** Mind maps/flowcharts, not just lists.
+3. **Permanent Display:** Core map visible.
+4. **Retrieval:** Draw map to check understanding.
 
-**Evidence Guide:**
-*   *Success:* Student explains concept using the map; generates own maps.
-*   *Failure:* Concepts remain fuzzy; maps exist but aren't used for retrieval.
+**Evidence Guide**
+- *Success:* Uses map to structure work.
+- *Failure:* Knows word but not meaning/connection.
 
 ---
 
 ### Strategy Node: Visual Pausing & Pacing
 
 <metadata>
-id: dom_c_visual_pacing
-name: Visual Pausing & Processing Time
-type: instructional_delivery
-target_constraint: ["processing_speed_mismatch", "late_responses", "missed_details"]
-triggers: ["slow to answer", "blank stare", "interpreter behind", "teacher too fast", "needs more time"]
-complexity: low
-time_required: habit_building
+id: dom_1b_visual_pacing
+title: Visual Pausing & Processing Time
+subdomain: 1B
+trigger_signs: ["slow to answer", "interpreter still signing", "passive in Q&A"]
+do_now_2min: Count to 5 slowly after every question.
+build_20min: "Think-Pair-Share" for major questions.
+success_looks_like: Raises hand; interpreter finishes before move on.
+common_failure_mode: Rapid-fire Q&A favoring hearing students.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-DHH students need extra time to process visual/linguistic input. Rapid-fire teaching leaves them behind.
+**Problem/Barrier**
+Interpreting lag + lipreading effort = DHH student 10s behind.
 
-**High-Leverage Practice: "Wait 5, Then Check"**
-1.  **Wait Time:** Count to 5 silently after asking a question.
-2.  **Visual Countdown:** Use fingers or timer to normalize the pause.
-3.  **Interpreter Lag:** Allow time for interpreter to finish before expecting response.
+**High-Leverage Practice: The 5-Second Rule**
+1. **Ask:** Pose question.
+2. **Wait:** Count to 5.
+3. **Check:** Ensure interpreter finished.
+4. **Select:** Pick student.
 
-**Evidence Guide:**
-*   *Success:* Student initiates responses; answers are more thoughtful.
-*   *Failure:* Teacher answers own questions; moves on while interpreter is still signing.
+**Evidence Guide**
+- *Success:* Equal opportunity to answer.
+- *Failure:* Teacher answers own question.
 
 ---
 
 ### Strategy Node: Multi-Modal Note Support
 
 <metadata>
-id: dom_c_multimodal_notes
-name: Visual Notes & Captions Support
-type: instructional_delivery
-target_constraint: ["note_taking_overload", "missed_captions", "cannot_listen_and_write"]
-triggers: ["can't write and listen", "messy notes", "gaps in notes", "missed video content", "no captions"]
-complexity: medium
-time_required: resource_preparation
+id: dom_1b_multimodal_notes
+title: Visual Notes & Captions Support
+subdomain: 1B
+trigger_signs: ["messy notes", "gaps in work", "writing while teacher talks"]
+do_now_2min: Provide printed slides/notes.
+build_20min: Create "Cloze" notes (fill-in-blanks).
+success_looks_like: Listens/watches during instruction, writes during work time.
+common_failure_mode: Expecting note-taking during video/demo.
+admin_enabler: Printing budget for support materials.
 </metadata>
 
-**Problem / Access Barrier:**  
-Impossible to watch interpreter/teacher and write notes simultaneously.
+**Problem/Barrier**
+Can't write and lipread/watch sign simultaneously. Note-taking during instruction is impossible.
 
-**High-Leverage Practice: "Notes as Scaffold"**
-1.  **Cloze Notes:** Fill-in-the-blanks, pre-drawn diagrams.
-2.  **Visual Capture:** Allow photos of board; provide slides in advance.
-3.  **Captions:** Use captions for video; highlight key terms.
+**High-Leverage Practice: Notes as Scaffold**
+1. **Pre-Supply:** Slides/notes *before* lesson.
+2. **Cloze:** Fill-in-blanks to reduce writing load.
+3. **Scribe:** Peer/TA takes notes.
+4. **Captions:** ALL videos captioned.
 
-**Evidence Guide:**
-*   *Success:* Notes are complete/organized; student spends time watching instruction.
-*   *Failure:* Notes are sparse/messy; student misses instruction while writing.
+**Evidence Guide**
+- *Success:* Complete notes without missing content.
+- *Failure:* Choosing between learning and recording.
 
 ---
 
 ### Strategy Node: Co-Designing Access Plans
 
 <metadata>
-id: dom_c_codesign_access
-name: Student-Teacher Access Plan
-type: instructional_design
-target_constraint: ["misaligned_supports", "one_size_fits_all_solutions", "student_not_owning_their_support"]
-triggers: ["refuses help", "doesn't use aids", "passive", "teacher guessing needs", "doesn't like FM"]
-complexity: medium
-time_required: 1–2_conferences_plus_updates
+id: dom_1b_codesign_access
+title: Student-Teacher Access Plan
+subdomain: 1B
+trigger_signs: ["refusing help", "removing aids", "passive resistance", "embarrassment"]
+do_now_2min: Ask: "Is this working? What would help?"
+build_20min: 15-min "Access Conference" for 3 supports.
+success_looks_like: Advocates for needs.
+common_failure_mode: Teacher decides "best" without consulting.
+admin_enabler: Release time for 1:1 meetings.
 </metadata>
 
-**Problem / Access Barrier:**  
-Supports are often decided *for* students, leading to mismatch and low buy-in.
+**Problem/Barrier**
+Imposed supports feel stigmatizing. Students know needs but lack agency.
 
-**High-Leverage Practice: "Access Interviews"**
-1.  **Ask:** "What helps you learn? What makes it hard?"
-2.  **Agree:** Co-create a visual plan (e.g., "I need captions," "I need front seating").
-3.  **Review:** Check in termly.
+**High-Leverage Practice: The Access Interview**
+1. **Ask:** "Where to sit?" "What helps?"
+2. **Agree:** 3 "Rules of Engagement" (e.g., Captions, Front row).
+3. **Review:** Check every term.
+4. **Empower:** Encourage student reminders.
 
-**Evidence Guide:**
-*   *Success:* Student explains their access needs; teacher adjusts based on plan.
-*   *Failure:* Student unaware of supports; teacher assumes "one size fits all".
+**Evidence Guide**
+- *Success:* Shared responsibility; high buy-in.
+- *Failure:* Passive acceptance or rebellion.
+
+---
+
+# Minimum Viable School Standard
+- **Captions:** 100% videos captioned.
+- **Seating:** Priority seating (front/center/quiet).
+- **Lighting:** No backlit teachers.
+- **Visuals:** Instructions written/visual.
+- **Alarms:** Visual systems tested.
+- **Handover:** Teachers know DHH students before Term 1.
+
+# Quick Audit Checklist
+- [ ] Captions on?
+- [ ] Clear view of teacher/interpreter?
+- [ ] Lighting on face?
+- [ ] Background noise minimized?
+- [ ] Key instructions written?
+- [ ] Stopped talking while student reads/writes?
+- [ ] Waited for interpreter?
+- [ ] Hearing tech on?
+- [ ] Break signal agreed?
+- [ ] Checked in with student?
+
+# PLD Rollout Suggestion
+- **Week 1:** "Silent Video" - Experience barrier.
+- **Week 5:** "Sightline Audit" - Sit in student's chair.
+- **Week 9:** "Wait Time Challenge" - Time pauses.

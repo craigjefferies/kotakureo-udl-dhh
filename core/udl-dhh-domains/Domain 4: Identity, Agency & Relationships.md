@@ -1,418 +1,490 @@
 # Domain 4: Identity, Agency & Relationships
 
-**Context:**  
-This domain focuses on the **learner as a person**. It recognizes that access and instruction are insufficient if the learner is passive, isolated, or disconnected.
+**Non-negotiables**
+- **Nothing About Me Without Me:** Student present/prepared for every IEP.
+- **Access is a Right:** No "asking nicely" for basic access.
+- **Identity is Safety:** Positive Deaf identity buffers isolation.
+- **Relationships First:** Safety precedes learning.
+- **Stop-Name-Ask:** Scripted repair for communication breakdowns.
+- **Future Focused:** Goals link to "Who do I want to be?".
 
-The core logic:
-> If decisions are made *for* the learner, they learn helplessness. If they are isolated, they lose motivation.
-> We must build **Mana Motuhake** (Agency/Self) and **Whanaungatanga** (Connection/Others).
-
-We combine **Identity & Agency** (Domain 4A) with **Relationships & Engagement** (Domain 4B).
+**Triage flow**
+1. **Safety:** Is student isolated/bullied? (Immediate action).
+2. **Agency:** Can student explain their access needs?
+3. **Connection:** Has at least one genuine friend?
+4. **Identity:** Views self as "broken" or "Deaf/Hard of Hearing"?
 
 ---
 
 ## Subdomain 4A: Mana Motuhake (Identity & Agency)
-*Focus: Knowing oneself, advocating for needs, and building a positive Deaf identity.*
 
 ### Strategy Node: Personal Learning Profile ("User Manual")
 
 <metadata>
-id: dom_e_profile
-name: My Learning Profile / User Manual
-type: student_identity_tool
-target_constraint: ["low_self_knowledge", "cannot_explain_needs", "adult_dependency"]
-triggers: ["doesn't know what they need", "passive", "teacher decides everything", "new teacher issues", "can't explain disability"]
-complexity: medium
-time_required: initial_build_plus_updates
+id: dom_4a_profile
+title: My Learning Profile / User Manual
+subdomain: 4A
+trigger_signs: ["doesn't know needs", "passive", "teacher decides everything", "new teacher issues"]
+do_now_2min: Print 1-page template. Ask: "What helps you learn?"
+build_20min: Create digital "Access Card" for phone to show new teachers.
+success_looks_like: Student presents profile to new teacher/reliever.
+common_failure_mode: Profile sits in a drawer unused.
+admin_enabler: Mandate "Learner Profiles" for priority learners.
 </metadata>
 
-**Problem / Access Barrier:**  
-Students cannot explain their own needs. Professionals hold all the knowledge.
+**Problem/Barrier**
+Students cannot articulate needs; professionals hold knowledge. Access fails when teachers change.
 
 **High-Leverage Practice: "My User Manual"**
-1.  **Co-Construct:** Student and teacher create a 1-page profile.
-2.  **Content:** "How I learn best", "What helps me", "What is hard".
-3.  **Use:** Student presents this to new teachers/relievers.
+1. **Co-Construct:** Create 1-page profile ("How I learn", "What helps", "What is hard").
+2. **Empower:** Student owns the document/digital card.
+3. **Use:** Student presents this to new teachers/relievers.
 
-**Evidence Guide:**
-*   *Success:* Student articulates needs; refers to profile.
-*   *Failure:* Profile sits in a drawer; student passive in meetings.
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** "All About Me" poster with photos. Co-created with whānau.
-*   **Secondary (Y7-13):** Digital "Access Card" (PDF on phone) or slide deck. Student emails it to teachers themselves.
+**Evidence Guide**
+- *Success:* Student articulates needs; refers to profile.
+- *Failure:* Student waits for teacher to "figure it out".
 
 ---
 
 ### Strategy Node: Explicit Self-Advocacy Routines
 
 <metadata>
-id: dom_e_self_advocacy
-name: Self-Advocacy Scripts & Routines
-type: agency_skill
-target_constraint: ["nod_and_cope", "silent_confusion", "fear_of_speaking_up"]
-triggers: ["nods and smiles", "doesn't speak up", "pretends to understand", "scared to ask", "compliance nod"]
-complexity: medium
-time_required: ongoing_practice
+id: dom_4a_self_advocacy
+title: Self-Advocacy Scripts & Routines
+subdomain: 4A
+trigger_signs: ["nods and smiles", "doesn't speak up", "pretends to understand", "compliance"]
+do_now_2min: Teach "T-Sign" (Time out) or "Stop" hand signal.
+build_20min: Roleplay "Stop-Name-Ask" scenarios until automatic.
+success_looks_like: Student interrupts lesson to ask for clarification.
+common_failure_mode: Telling them to "just ask" without teaching *how*.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-"Nodding and coping" masks lack of access. Fear of being "difficult".
+**Problem/Barrier**
+"Nodding/coping" masks access gaps. Fear of appearing "difficult" prevents asking.
 
 **High-Leverage Practice: "STOP–NAME–ASK"**
-1.  **Stop:** Signal to pause.
-2.  **Name:** "I missed that" / "Too fast".
-3.  **Ask:** "Please repeat" / "Write it down".
+1. **Stop:** Signal to pause (Hand signal/T-sign).
+2. **Name:** Identify issue ("I missed that", "Too fast").
+3. **Ask:** Request repair ("Please repeat", "Write it down").
 
-**Evidence Guide:**
-*   *Success:* Student interrupts to repair communication; teachers respond positively.
-*   *Failure:* Student stays silent when lost; says "it's fine".
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** Visual "Stop" paddle or card. Non-verbal hand signal.
-*   **Secondary (Y7-13):** Scripted phrases ("Could you rephrase that?"). Email templates for following up after class.
+**Evidence Guide**
+- *Success:* Student interrupts to repair communication.
+- *Failure:* Student stays silent when lost.
 
 ---
 
 ### Strategy Node: Goal Setting & Self-Monitoring
 
 <metadata>
-id: dom_e_goals
-name: Student-Led Goal Setting & Check-Ins
-type: metacognitive_agency
-target_constraint: ["external_motivation_only", "unclear_learning_purpose", "short_term_compliance"]
-triggers: ["no motivation", "doesn't care about school", "just doing what told", "no ownership", "passive learner"]
-complexity: medium
-time_required: recurring_short_sessions
+id: dom_4a_goals
+title: Student-Led Goal Setting & Check-Ins
+subdomain: 4A
+trigger_signs: ["no motivation", "doesn't care", "passive learner", "no ownership"]
+do_now_2min: "What is ONE thing you want to get better at this week?"
+build_20min: Weekly 5-min goal review with visual tracking.
+success_looks_like: Student knows current goal and tracks progress.
+common_failure_mode: Goals set *by* adults *for* students.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Goals are set *by* adults *for* students. Low ownership.
+**Problem/Barrier**
+Goals are abstract and teacher-owned. Student compliance replaces ownership.
 
 **High-Leverage Practice: "My Goal, My Plan"**
-1.  **I Will:** Student sets specific, observable goals.
-2.  **Visual Plan:** Track progress visually (ticks, stickers).
-3.  **Review:** "Did I meet my goal? Why/Why not?"
+1. **I Will:** Student sets specific, observable goal.
+2. **Visual Plan:** Track progress visually (ticks/stickers).
+3. **Review:** Weekly check: "Did I meet my goal? Why/Why not?"
 
-**Evidence Guide:**
-*   *Success:* Knows current goal; tracks own progress.
-*   *Failure:* Unaware of IEP goals; sees goals as "teacher work".
+**Evidence Guide**
+- *Success:* Student updates their own progress chart.
+- *Failure:* Student doesn't know their goal.
 
 ---
 
 ### Strategy Node: Deaf Identity & Deaf Gain
 
 <metadata>
-id: dom_e_identity
-name: Deaf Identity, Deaf Gain & Belonging
-type: identity_support
-target_constraint: ["internalised_deficit_view", "isolation", "low_pride_in_deafness"]
-triggers: ["hates hearing aids", "wants to be hearing", "ashamed", "isolated", "no deaf friends", "hides deafness"]
-complexity: high
-time_required: ongoing_whole_programme
+id: dom_4a_identity
+title: Deaf Identity, Deaf Gain & Belonging
+subdomain: 4A
+trigger_signs: ["hates hearing aids", "wants to be hearing", "ashamed", "isolated"]
+do_now_2min: Show video of successful Deaf adult.
+build_20min: Connect with local Deaf community/mentors.
+success_looks_like: Student expresses pride/neutrality about deafness.
+common_failure_mode: Focusing only on "fixing" hearing loss.
+admin_enabler: Funding for Deaf mentors/role models.
 </metadata>
 
-**Problem / Access Barrier:**  
-Deficit narratives ("hearing loss", "impairment") damage self-worth.
+**Problem/Barrier**
+Deficit narratives ("impairment") damage self-worth. Isolation breeds shame.
 
 **High-Leverage Practice: "Deaf Gain"**
-1.  **Role Models:** Exposure to successful Deaf adults.
-2.  **Reframing:** "I can't hear" -> "The room is too noisy."
-3.  **Community:** Connect with Deaf peers/culture.
+1. **Role Models:** Exposure to successful Deaf adults.
+2. **Reframing:** "I can't hear" -> "The room is too noisy."
+3. **Community:** Connect with Deaf peers/culture.
 
-**Evidence Guide:**
-*   *Success:* Expresses pride/neutrality about deafness; uses access tools confidently.
-*   *Failure:* Rejects supports to "pass"; shame about deafness.
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** Books with Deaf characters. Meeting a "Deaf Buddy" (older student).
-*   **Secondary (Y7-13):** Analyzing Deaf history/culture. Mentoring from Deaf adults. Discussing "Deaf Gain" vs "Hearing Loss".
+**Evidence Guide**
+- *Success:* Student uses access tools confidently.
+- *Failure:* Student rejects supports to "pass" as hearing.
 
 ---
 
 ### Strategy Node: Participation in Decisions (IEPs)
 
 <metadata>
-id: dom_e_decisions
-name: Student Voice in IEPs & Service Decisions
-type: systems_agency
-target_constraint: ["decisions_made_about_not_with", "student_absent_from_meetings", "service_mismatch"]
-triggers: ["not at meetings", "decisions made for them", "doesn't know support plan", "ignored by adults"]
-complexity: high
-time_required: systemic_change
+id: dom_4a_decisions
+title: Student Voice in IEPs & Service Decisions
+subdomain: 4A
+trigger_signs: ["not at meetings", "decisions made for them", "ignored by adults"]
+do_now_2min: Ask: "Who should be at your meeting?"
+build_20min: Student prepares slide/speech for IEP start.
+success_looks_like: Student speaks first at IEP meeting.
+common_failure_mode: "Nothing about me without me" violated.
+admin_enabler: Policy: Students must attend IEPs (age appropriate).
 </metadata>
 
-**Problem / Access Barrier:**  
-"Nothing about me without me" is violated. Students absent from key meetings.
+**Problem/Barrier**
+Students discussed *about*, not *with*. Learned helplessness results from removed agency.
 
 **High-Leverage Practice: "Student-Led Meetings"**
-1.  **Prepare:** Help student prepare what they want to say.
-2.  **Present:** Student speaks first at IEP.
-3.  **Format:** Ensure meeting is accessible (interpreter, visual agenda).
+1. **Prepare:** Support student to script their contribution.
+2. **Present:** Student speaks first at meeting.
+3. **Format:** Ensure meeting is accessible (interpreter, visual agenda).
 
-**Evidence Guide:**
-*   *Success:* Attends and contributes to IEPs; understands services.
-*   *Failure:* Absent from meetings; decisions made over their head.
+**Evidence Guide**
+- *Success:* Student contributes to decisions.
+- *Failure:* Student absent or silent.
 
 ---
 
 ### Strategy Node: Emotional Literacy & Regulation
 
 <metadata>
-id: dom_e_emotional
-name: Emotional Literacy & Self-Regulation
-type: wellbeing_agency
-target_constraint: ["meltdowns", "shutdowns", "difficulty_labeling_emotions"]
-triggers: ["meltdowns", "angry outbursts", "can't say how they feel", "shutdowns", "emotional regulation"]
-complexity: medium
-time_required: ongoing
+id: dom_4a_emotional
+title: Emotional Literacy & Self-Regulation
+subdomain: 4A
+trigger_signs: ["meltdowns", "angry outbursts", "shutdowns", "can't say feelings"]
+do_now_2min: Print "Emotion Wheel" (with signs).
+build_20min: Teach "Name it to Tame it" strategies.
+success_looks_like: Student uses words/signs for feelings vs acting out.
+common_failure_mode: Punishing behaviour without teaching skill.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Limited emotional vocabulary leads to behavioral outbursts instead of communication.
+**Problem/Barrier**
+Limited emotional vocabulary triggers outbursts. "I don't know what I feel, so I explode."
 
 **High-Leverage Practice: "Name–Know–Navigate"**
-1.  **Name:** Teach emotion signs/words.
-2.  **Know:** Recognize body signals of stress.
-3.  **Navigate:** Menu of strategies (break, breathe, talk).
+1. **Name:** Teach emotion signs/words.
+2. **Know:** Recognize body signals of stress.
+3. **Navigate:** Menu of strategies (break, breathe, talk).
 
-**Evidence Guide:**
-*   *Success:* Uses words/signs to express feelings; seeks regulation strategies.
-*   *Failure:* Frequent meltdowns; unable to label emotions.
+**Evidence Guide**
+- *Success:* Student requests break before exploding.
+- *Failure:* Frequent meltdowns.
 
 ---
 
 ### Strategy Node: Future Selves & Pathways
 
 <metadata>
-id: dom_e_future
-name: Future Selves, Pathways & Hope
-type: long_term_agency
-target_constraint: ["limited_future_vision", "low_expectations", "detachment_from_school"]
-triggers: ["no plans", "dropping out", "low expectations", "doesn't see future", "why am I here"]
-complexity: high
-time_required: extended_programme
+id: dom_4a_future
+title: Future Selves, Pathways & Hope
+subdomain: 4A
+trigger_signs: ["no plans", "dropping out", "low expectations", "why am I here"]
+do_now_2min: "Draw yourself in 10 years."
+build_20min: Map pathway (Subject choice -> Career).
+success_looks_like: Student articulates a future goal.
+common_failure_mode: Low expectations ("You can't do that").
+admin_enabler: Careers advice specific to DHH pathways.
 </metadata>
 
-**Problem / Access Barrier:**  
-Low expectations and lack of role models limit future vision.
+**Problem/Barrier**
+Low expectations/role models limit vision. School feels irrelevant.
 
 **High-Leverage Practice: "Possible Selves"**
-1.  **Imagine:** "Me in 5 years."
-2.  **Expose:** Visits to workplaces, tertiary study.
-3.  **Plan:** Backwards map from goal to current steps.
+1. **Imagine:** "Me in 5 years."
+2. **Expose:** Visits to workplaces, tertiary study.
+3. **Plan:** Backwards map from goal to current steps.
 
-**Evidence Guide:**
-*   *Success:* Articulates future goals; sees school as relevant.
-*   *Failure:* No future vision; disengaged from pathway planning.
+**Evidence Guide**
+- *Success:* Student sees school as step to goal.
+- *Failure:* Student disengages from planning.
 
 ---
 
 ## Subdomain 4B: Whanaungatanga (Relationships & Engagement)
-*Focus: Belonging, connection, and culturally responsive environments.*
 
 ### Strategy Node: Relational Check-Ins
 
 <metadata>
-id: dom_h_checkins
-name: Daily Relational Check-Ins
-type: classroom_relational_routine
-target_constraint: ["student_withdrawal", "silent_distress", "weak_teacher_student_trust"]
-triggers: ["sad", "withdrawn", "hiding feelings", "teacher doesn't know them", "bad day"]
-complexity: low
-time_required: 5-10_min_daily
+id: dom_4b_checkins
+title: Daily Relational Check-Ins
+subdomain: 4B
+trigger_signs: ["sad", "withdrawn", "hiding feelings", "bad day"]
+do_now_2min: 1-5 Finger check at door.
+build_20min: 2-minute 1:1 chat schedule for every student.
+success_looks_like: Student honestly reports state.
+common_failure_mode: Tokenistic check-in ("How are you?" "Good").
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Masking distress. Teachers miss signs of withdrawal.
+**Problem/Barrier**
+Masking distress; teachers miss withdrawal. "I'm fine" is default.
 
 **High-Leverage Practice: "How Are You, Really?"**
-1.  **Visual Scale:** 1-5 Energy/Mood check-in.
-2.  **Routine:** Daily start-of-class ritual.
-3.  **Response:** Teacher notices and adjusts (e.g., "Take it easy today").
+1. **Visual Scale:** 1-5 Energy/Mood check-in.
+2. **Routine:** Daily start-of-class ritual.
+3. **Response:** Teacher notices and adjusts demands.
 
-**Evidence Guide:**
-*   *Success:* Honest reporting of state; teacher responds with care.
-*   *Failure:* Tokenistic check-in; student hides distress.
+**Evidence Guide**
+- *Success:* Teacher adjusts based on student state.
+- *Failure:* Student hides distress until crash.
 
 ---
 
 ### Strategy Node: Peer Connection & Bridges
 
 <metadata>
-id: dom_h_peer_connections
-name: Peer Connection & Deaf–Hearing Bridge-Building
-type: social_inclusion_support
-target_constraint: ["social_isolation", "no_real_friendships", "lack_of_peer_understanding"]
-triggers: ["lonely", "no friends", "ignored by kids", "bullied", "sitting alone", "socially isolated"]
-complexity: medium
-time_required: ongoing
+id: dom_4b_peer_connections
+title: Peer Connection & Deaf–Hearing Bridge-Building
+subdomain: 4B
+trigger_signs: ["lonely", "no friends", "sitting alone", "bullied"]
+do_now_2min: Assign "Buddy" for day (rotate).
+build_20min: Teach class basic signs/communication tactics.
+success_looks_like: Student has genuine friendships, not just "helpers".
+common_failure_mode: Peers "mothering" instead of befriending.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Physical inclusion $\neq$ Social inclusion. DHH students isolated or "helped" rather than befriended.
+**Problem/Barrier**
+Physical inclusion ≠ Social inclusion. DHH students isolated or treated as "pets".
 
 **High-Leverage Practice: "We All Carry the Access"**
-1.  **Teach Peers:** How to look, pause, and sign basics.
-2.  **Collaborative Roles:** Design group tasks where DHH student has a vital role.
-3.  **Allies:** Identify and support peer allies.
+1. **Teach Peers:** How to look, pause, and sign basics.
+2. **Collaborative Roles:** Design tasks where DHH student is vital.
+3. **Allies:** Identify and support peer allies.
 
-**Evidence Guide:**
-*   *Success:* Genuine friendships; peers adjust for access naturally.
-*   *Failure:* Student isolated; peers ignore or "baby" the student.
+**Evidence Guide**
+- *Success:* Peers adjust for access naturally.
+- *Failure:* Student sits alone at lunch.
+
+---
+
+### Strategy Node: Anti-Bullying & Social Safety Pathways
+
+<metadata>
+id: dom_4b_social_safety
+title: Anti-Bullying, Reporting Pathways & Safety Plans
+subdomain: 4B
+trigger_signs: ["bullied", "teased", "excluded", "fear of retaliation"]
+do_now_2min: Identify one "Safe Person" student can text/go to.
+build_20min: Explicit anti-bullying protocol for whole class.
+success_looks_like: Student reports incidents immediately.
+common_failure_mode: "Just ignore them" advice.
+admin_enabler: Clear, safe reporting system (text/email).
+</metadata>
+
+**Problem/Barrier**
+Bullying unreported due to fear/access. Social safety must be explicit.
+
+**High-Leverage Practice: "Report → Protect → Restore"**
+1. **Report:** Clear, safe pathway (Text/Form).
+2. **Protect:** Immediate safety plan (Safe place).
+3. **Ally:** Peer allies trained to intervene.
+
+**Evidence Guide**
+- *Success:* Student feels safe to report.
+- *Failure:* Student avoids school.
 
 ---
 
 ### Strategy Node: Whānau Engagement
 
 <metadata>
-id: dom_h_whanau
-name: Whānau-Centred Engagement for DHH Learners
-type: home_school_partnership
-target_constraint: ["low_whanau_trust", "limited_home_school_communication", "tokenistic_engagement"]
-triggers: ["parents not involved", "home school disconnect", "parents angry", "no support at home", "culture clash"]
-complexity: high
-time_required: ongoing_relationship_work
+id: dom_4b_whanau
+title: Whānau-Centred Engagement
+subdomain: 4B
+trigger_signs: ["parents not involved", "disconnect", "culture clash"]
+do_now_2min: Text home: "Positive news: [Student] did great at X today."
+build_20min: Termly "Whānau Hui" (coffee/kai) - no paperwork.
+success_looks_like: Whānau trust school and communicate openly.
+common_failure_mode: Contacting home only when things go wrong.
+admin_enabler: Release time for whānau meetings.
 </metadata>
 
-**Problem / Access Barrier:**  
-Whānau often feel judged or excluded by "expert" systems.
+**Problem/Barrier**
+Whānau feel judged/excluded. Trust low if communication only negative.
 
 **High-Leverage Practice: "Whānau as Co-Designers"**
-1.  **Connect:** Positive first contact (strengths-based).
-2.  **Listen:** "What works at home?"
-3.  **Partner:** Shared goals and strategies.
+1. **Connect:** Positive first contact (strengths-based).
+2. **Listen:** "What works at home?"
+3. **Partner:** Shared goals.
 
-**Evidence Guide:**
-*   *Success:* Whānau engaged and trusting; two-way communication.
-*   *Failure:* Contact only for problems; whānau voice ignored.
+**Evidence Guide**
+- *Success:* Two-way communication channel established.
+- *Failure:* Whānau voice ignored.
 
 ---
 
 ### Strategy Node: Safe-to-Try Climate
 
 <metadata>
-id: dom_h_climate
-name: Safe-to-Try Classroom Climate
-type: engagement_enabler
-target_constraint: ["fear_of_being_wrong", "silence_in_discussions", "masking_of_difficulty"]
-triggers: ["afraid to be wrong", "silent", "perfectionist", "anxious", "won't answer"]
-complexity: medium
-time_required: ongoing_norm_building
+id: dom_4b_climate
+title: Safe-to-Try Classroom Climate
+subdomain: 4B
+trigger_signs: ["afraid to be wrong", "silent", "perfectionist", "anxious"]
+do_now_2min: Teacher makes mistake on purpose. "Whoops! Help me fix it."
+build_20min: "My Favourite No" routine (celebrating errors).
+success_looks_like: Student volunteers answers even when unsure.
+common_failure_mode: Creating "perfect" environment where mistakes are shamed.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Fear of making mistakes (language or content) leads to silence.
+**Problem/Barrier**
+Fear of mistakes leads to silence. "If I get it wrong, I look stupid."
 
 **High-Leverage Practice: "Mistakes are Learning"**
-1.  **Normalize:** Teacher models making and fixing mistakes.
-2.  **Safety:** "I don't know yet" is a valid answer.
-3.  **Structure:** Think-Pair-Share (allows rehearsal before public speaking).
+1. **Normalize:** Model making and fixing mistakes.
+2. **Safety:** "I don't know yet" is valid answer.
+3. **Structure:** Think-Pair-Share (rehearsal).
 
-**Evidence Guide:**
-*   *Success:* Student takes risks; volunteers answers.
-*   *Failure:* Only confident students speak; DHH student silent.
+**Evidence Guide**
+- *Success:* Student takes risks in learning.
+- *Failure:* Only confident students speak.
 
 ---
 
 ### Strategy Node: Interest-Driven Engagement
 
 <metadata>
-id: dom_h_engagement_drivers
-name: Interest-Driven & Relevant Learning Tasks
-type: motivation_support
-target_constraint: ["off_task_behaviour", "boredom", "low_persistence"]
-triggers: ["bored", "disengaged", "hates subject", "sleeping in class", "why do we have to do this", "off task"]
-complexity: medium
-time_required: planning_plus_student_voice
+id: dom_4b_engagement_drivers
+title: Interest-Driven & Relevant Learning Tasks
+subdomain: 4B
+trigger_signs: ["bored", "disengaged", "sleeping", "off task"]
+do_now_2min: Survey: "What are your top 3 interests?"
+build_20min: Integrate interests into next project.
+success_looks_like: Student is motivated and persistent.
+common_failure_mode: Teaching irrelevant content without "hook".
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Irrelevant content leads to disengagement.
+**Problem/Barrier**
+Irrelevant content leads to disengagement. "Why do we have to do this?"
 
 **High-Leverage Practice: "Hook, Link, Choice"**
-1.  **Hook:** Real-world, visual, relevant start.
-2.  **Link:** Connect to student interests/culture.
-3.  **Choice:** Allow choice of topic or output format.
+1. **Hook:** Real-world, visual start.
+2. **Link:** Connect to student interests/culture.
+3. **Choice:** Allow choice of topic/format.
 
-**Evidence Guide:**
-*   *Success:* High persistence; student connects learning to life.
-*   *Failure:* Boredom; "Why are we doing this?"; off-task.
+**Evidence Guide**
+- *Success:* Student connects learning to life.
+- *Failure:* Boredom and refusal.
 
 ---
 
 ### Strategy Node: Visibility of Identity
 
 <metadata>
-id: dom_h_visibility
-name: Visibility of Deaf, Māori, and Cultural Identities
-type: environment_design
-target_constraint: ["erasure_of_identity", "tokenism", "feeling_like_the_only_one"]
-triggers: ["feels invisible", "only deaf kid", "no role models", "white walls", "no culture"]
-complexity: medium
-time_required: initial_design_plus_updates
+id: dom_4b_visibility
+title: Visibility of Deaf, Māori, and Cultural Identities
+subdomain: 4B
+trigger_signs: ["feels invisible", "only deaf kid", "white walls"]
+do_now_2min: Put up NZSL alphabet poster.
+build_20min: Audit library/walls: "Can I see myself here?"
+success_looks_like: Student sees themselves reflected in environment.
+common_failure_mode: Tokenistic posters never referred to.
+admin_enabler: Budget for diverse resources.
 </metadata>
 
-**Problem / Access Barrier:**  
+**Problem/Barrier**
 Environment reflects only hearing/Pākehā norms. Erasure of identity.
 
 **High-Leverage Practice: "Walls that Speak"**
-1.  **Display:** NZSL, Māori, Cultural icons visible and *used*.
-2.  **Represent:** Books/resources featuring Deaf/diverse characters.
-3.  **Value:** Student work and identity projects displayed.
+1. **Display:** NZSL, Māori, Cultural icons visible.
+2. **Represent:** Books/resources with Deaf characters.
+3. **Value:** Student work displayed.
 
-**Evidence Guide:**
-*   *Success:* Student sees themselves in the room; resources used daily.
-*   *Failure:* Generic walls; tokenistic posters.
+**Evidence Guide**
+- *Success:* Resources used daily.
+- *Failure:* Generic classroom walls.
 
 ---
 
 ### Strategy Node: Restorative Practices
 
 <metadata>
-id: dom_h_restorative
-name: Micro-Restorative Conversations
-type: relationship_repair
-target_constraint: ["unresolved_conflicts", "relationship_breakdown", "persistent_misunderstandings"]
-triggers: ["fighting", "angry at teacher", "hates school", "conflict", "misunderstanding", "grudge"]
-complexity: medium
-time_required: as_needed
+id: dom_4b_restorative
+title: Micro-Restorative Conversations
+subdomain: 4B
+trigger_signs: ["conflict", "fighting", "angry", "grudge"]
+do_now_2min: "What happened?" (Listen without interrupting).
+build_20min: Restorative script cards for duty teachers.
+success_looks_like: Conflicts resolved and relationships repaired.
+common_failure_mode: Punitive response ("Go to office") without listening.
+admin_enabler: Whole-school restorative practice training.
 </metadata>
 
-**Problem / Access Barrier:**  
-Unresolved conflict leads to withdrawal. Communication breakdown often at root.
+**Problem/Barrier**
+Unresolved conflict leads to withdrawal. Communication breakdown often root cause.
 
 **High-Leverage Practice: "Repair & Reconnect"**
-1.  **Ask:** "What happened?" (Ensure access/interpreter).
-2.  **Listen:** Validate feelings.
-3.  **Fix:** Agree on repair steps.
+1. **Ask:** "What happened?" (Ensure access).
+2. **Listen:** Validate feelings.
+3. **Fix:** Agree on repair steps.
 
-**Evidence Guide:**
-*   *Success:* Conflicts resolved; relationships maintained.
-*   *Failure:* Grudges held; student avoids peers/staff.
+**Evidence Guide**
+- *Success:* Relationships maintained.
+- *Failure:* Grudges held; student avoids school.
 
 ---
 
 ### Strategy Node: Whole-School Whanaungatanga
 
 <metadata>
-id: dom_h_whole_school
-name: Whole-School Whanaungatanga for DHH Learners
-type: systemic_relationship_practice
-target_constraint: ["siloed_support", "inconsistent_relationships", "staff_turnover_impact"]
-triggers: ["new teacher doesn't know", "lost in system", "no one cares", "just a number", "inconsistent support"]
-complexity: high
-time_required: leadership_commitment
+id: dom_4b_whole_school
+title: Whole-School Whanaungatanga
+subdomain: 4B
+trigger_signs: ["lost in system", "inconsistent support", "staff turnover"]
+do_now_2min: Staff meeting 5-min tip: "Face the student."
+build_20min: Annual "Deaf Awareness" week/training.
+success_looks_like: Student feels safe with multiple staff members.
+common_failure_mode: Support relies on one "hero" teacher.
+admin_enabler: Leadership commitment to inclusive culture.
 </metadata>
 
-**Problem / Access Barrier:**  
+**Problem/Barrier**
 Support relies on one person. Inconsistent experience across school.
 
 **High-Leverage Practice: "Shared Responsibility"**
-1.  **Consistency:** All staff know basic access/greeting signs.
-2.  **Transitions:** Handover of relationship info between years.
-3.  **Culture:** Whole school values DHH inclusion.
+1. **Consistency:** All staff know basic access signs.
+2. **Transitions:** Handover of relationship info.
+3. **Culture:** Whole school values inclusion.
 
-**Evidence Guide:**
-*   *Success:* Student feels safe with multiple staff; smooth transitions.
-*   *Failure:* Support collapses when key teacher is away.
+**Evidence Guide**
+- *Success:* Smooth transitions between years/classes.
+- *Failure:* Support collapses when key teacher is away.
+
+---
+
+# Minimum Viable School Standard
+- **Profile:** Every DHH student has "Learner Profile" shared with teachers.
+- **Meeting:** Students attend (part of) IEP meetings.
+- **Check-in:** Daily relational check-ins are routine.
+- **Safety:** Clear, accessible anti-bullying reporting system.
+- **Whānau:** Positive contact home at least once a term.
+- **Identity:** NZSL and Deaf culture visible in environment.
+
+# Quick Audit Checklist
+- [ ] Does student have Learner Profile?
+- [ ] Do they know how to ask for help (Stop-Name-Ask)?
+- [ ] Are they attending their IEP?
+- [ ] Do they have a "Safe Person" at school?
+- [ ] Have we sent positive news home?
+- [ ] Is NZSL visible in classroom?
+- [ ] Do peers know how to communicate?
+- [ ] Is student socially included (not just physically)?
+
+# PLD Rollout Suggestion
+- **Week 1:** "Relationships First" - Establishing check-ins

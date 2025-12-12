@@ -1,392 +1,501 @@
 # Domain 2: Language & Cognitive Engine
 
-**Context:**  
-This domain powers the learner's ability to **process, express, and manipulate complex ideas**. It bridges the gap between languages (NZSL ↔ English) and elevates thinking from surface recall to deep critical analysis.
+**Non-negotiables**
+- **Meaning First:** Never ask student to read/write English they can't sign/explain first.
+- **Visual Grammar:** English grammar is invisible; make it visible (colour-coded).
+- **No "Fake Reading":** Decoding without comprehension forbidden. Stop and check.
+- **Pre-teach Vocab:** Academic terms front-loaded before lesson.
+- **Explicit Bridging:** Explicitly link sign to written word.
+- **Metacognition:** Safe way to say "I don't get it" (Traffic Lights).
 
-The core logic:
-> Access (Domain 1) lets the signal in. Domain 2 provides the **engine** to decode that signal (Language) and the **gears** to drive deep thinking (Cognition).
-
-We combine **The Bi-Literacy Bridge** (Domain 2A) with **Critical Thinking & Metalinguistics** (Domain 2B).
+**Triage flow**
+1. **Concept Check:** Understands *idea* in strongest language (NZSL)?
+2. **Bridge Check:** Maps idea to English word/sentence?
+3. **Output Check:** Can manipulate idea (critical thinking) vs copying?
+4. **Intervene:** 1 fails=teach concept. 2 fails=teach vocab/grammar. 3 fails=teach scaffolds.
 
 ---
 
 ## Subdomain 2A: The Bi-Literacy Bridge (NZSL ↔ English)
-*Focus: Explicitly connecting the visual language of NZSL with the written code of English.*
 
 ### Strategy Node: Visual Grammar Mechanics (Morphology)
 
 <metadata>
-id: dom_a_morphology
-name: Visual Grammar & Morphology Markers
-type: intervention_strategy
-target_constraint: ["auditory_blindness_to_s", "morphological_awareness", "missing_plurals", "verb_tense_errors"]
-triggers: ["misses endings", "no plurals", "writes like they speak", "grammar errors", "verb tense wrong", "leaves off s"]
-complexity: low
-time_required: instant
+id: dom_2a_morphology
+title: Visual Grammar & Morphology Markers
+subdomain: 2A
+trigger_signs: ["missing plurals", "no past tense -ed", "telegraphic writing", "writes like they speak"]
+do_now_2min: Mark all 's' in Green and 'ed' in Blue.
+build_20min: Teach "Morphology Monster": English eats ends, put them back.
+success_looks_like: Self-corrects endings during drafting.
+common_failure_mode: Verbal corrections ("Did you hear the 's'?").
+admin_enabler: School-wide colour-coding policy.
 </metadata>
 
-**Problem / Access Barrier:**  
-"Auditory blindness" to low-energy sounds (*-s, -ed*) leads to grammatical errors in reading/writing.
+**Problem/Barrier**
+"Auditory blindness" to low-energy sounds (*-s, -ed*) leads to errors. If you can't hear it, you don't write it.
 
-**High-Leverage Practice: "Colour-Coded Morphology"**
-1.  **Colour Code:** Red for plural *-s*, Blue for past *-ed*.
-2.  **NZSL Chain:** Sign CAT -> Sign THREE -> Write "Three Cats" (highlight 's').
-3.  **Explicit Contrast:** "In NZSL we sign 'FINISH'; in English we write '-ed'."
+**High-Leverage Practice: Colour-Coded Morphology**
+1. **Code:** Assign colours (Plural=Red, Past=Blue).
+2. **Chain:** Sign concept -> Write words.
+3. **Highlight:** Physically highlight 's' to confirm.
+4. **Contrast:** "NZSL repeats sign; English adds 's'."
 
-**Evidence Guide:**
-*   *Success:* Student self-corrects endings; explains meaning of *-s/-ed*.
-*   *Failure:* Student omits endings consistently; teacher corrects without visual explanation.
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** Physical Lego blocks (Red block = 's', Blue block = 'ed'). "Morphology Monster" game.
-*   **Secondary (Y7-13):** Highlighting text in Google Docs (Find/Replace all 'ed' with blue). Explicit analysis of scientific suffixes (-tion, -ology).
+**Evidence Guide**
+- *Success:* Checks work for "red bits".
+- *Failure:* Teacher circles errors without explanation.
 
 ---
 
 ### Strategy Node: Orthographic Mapping with NZSL Anchors
 
 <metadata>
-id: dom_a_orthographic
-name: Orthographic Mapping with NZSL Anchors
-type: decoding_intervention
-target_constraint: ["sight_word_blur", "slow_reading_rate", "weak_phonological_awareness"]
-triggers: ["can't sound out", "guesses words", "slow reading", "doesn't know phonics", "visual reader"]
-complexity: medium
-time_required: repeated_short_sessions
+id: dom_2a_orthographic
+title: Orthographic Mapping with NZSL Anchors
+subdomain: 2A
+trigger_signs: ["guessing words", "slow reading", "visual shape guessing", "no phonics skills"]
+do_now_2min: Finger-spell word. Sign meaning. Point to written word.
+build_20min: "Sign-Sound-Spelling" wall for irregular words.
+success_looks_like: Recognizes target words instantly.
+common_failure_mode: Teaching "phonics only" without sound access.
+admin_enabler: Phonics programs with visual/mouth-shape supports.
 </metadata>
 
-**Problem / Access Barrier:**  
-Lack of phonological loop makes "sounding out" inefficient. Words are treated as random pictures.
+**Problem/Barrier**
+Standard phonics relies on auditory loop. DHH students need visual anchor to "glue" letters to meaning.
 
-**High-Leverage Practice: "Sign–Shape–Sound–Meaning"**
-1.  **Anchor:** Sign the meaning (NZSL).
-2.  **Shape:** Trace word shape/outline.
-3.  **Map:** Link letters to mouth shape/sound (where accessible).
-4.  **Context:** Use in sentence.
+**High-Leverage Practice: Sign–Shape–Meaning**
+1. **Anchor:** Sign meaning (NZSL) first.
+2. **Map:** Finger-spell letter sequence.
+3. **Shape:** Trace word shape.
+4. **Context:** Put in sentence immediately.
 
-**Evidence Guide:**
-*   *Success:* Recognises target words instantly; sorts by pattern (e.g., wh- words).
-*   *Failure:* Reads word as new every time; relies solely on fingerspelling.
+**Evidence Guide**
+- *Success:* Sees word, signs meaning immediately.
+- *Failure:* Sounds out "h-o-u-s-e" but doesn't know meaning.
 
 ---
 
 ### Strategy Node: Language Experience Approach (LEA)
 
 <metadata>
-id: dom_a_lea
-name: NZSL-Based Language Experience Stories
-type: reading_writing_bridge
-target_constraint: ["limited_background_knowledge", "weak_connection_between_sign_and_print", "low_motivation_for_reading"]
-triggers: ["hates reading", "no connection to text", "low vocabulary", "can't write stories", "reluctant writer"]
-complexity: medium
-time_required: 20-40_min_session
+id: dom_2a_lea
+title: NZSL-Based Language Experience Stories
+subdomain: 2A
+trigger_signs: ["hates writing", "blank page syndrome", "disconnect from text", "low vocabulary"]
+do_now_2min: Photo of activity. Write one sentence together.
+build_20min: Do activity. Discuss in NZSL. Co-write story.
+success_looks_like: Reads back text because they lived it.
+common_failure_mode: Generic prompts ("My Holiday") with no shared experience.
+admin_enabler: Allow "experience trips".
 </metadata>
 
-**Problem / Access Barrier:**  
-Disconnect between student's lived experience (often visual/signed) and static text.
+**Problem/Barrier**
+Disconnect between vivid visual life and static text. No English vocab for thoughts = shutdown.
 
-**High-Leverage Practice: "We Sign It, We Write It"**
-1.  **Experience:** Do an activity together. Discuss in NZSL.
-2.  **Co-Construct:** Write the story together in English, translating from student's signs.
-3.  **Read:** Read back the text, linking English words to the signs used.
+**High-Leverage Practice: We Sign It, We Write It**
+1. **Experience:** Do something real.
+2. **Discuss:** Talk in NZSL. Capture vocab.
+3. **Scribe:** Write student's ideas in English.
+4. **Read:** Student reads thoughts back.
 
-**Evidence Guide:**
-*   *Success:* High engagement; student retells story in both languages.
-*   *Failure:* Text unrelated to student experience; no explicit sign-print linking.
+**Evidence Guide**
+- *Success:* High engagement; points to words and signs.
+- *Failure:* Teacher writes text student doesn't understand.
 
 ---
 
 ### Strategy Node: Visual Sentence Framing (Syntax)
 
 <metadata>
-id: dom_a_syntax
-name: Visual Sentence Frames with NZSL Chaining
-type: writing_scaffold
-target_constraint: ["run_on_sentences", "missing_subjects_or_verbs", "unclear_sentence_boundaries"]
-triggers: ["jumbled sentences", "words in wrong order", "run-on sentences", "missing verbs", "confused grammar"]
-complexity: medium
-time_required: modelled_lessons_plus_independent_practice
+id: dom_2a_syntax
+title: Visual Sentence Frames with NZSL Chaining
+subdomain: 2A
+trigger_signs: ["jumbled word order", "run-on sentences", "missing verbs", "signed english writing"]
+do_now_2min: Write structure: [WHO] + [DID WHAT] + [WHERE].
+build_20min: Laminated "sentence strips" to arrange.
+success_looks_like: Uses frame to build coherent sentence.
+common_failure_mode: Correcting every error (bleeding red ink).
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-English syntax (SVO) differs from NZSL (Topic-Comment). Students produce "signed English" or run-on sentences.
+**Problem/Barrier**
+NZSL (Topic-Comment) syntax differs from English (SVO). "Gloss" writing results in jumbled English.
 
-**High-Leverage Practice: "NZSL → Frame → Fill"**
-1.  **Sign Idea:** Student signs concept.
-2.  **Frame:** Teacher provides visual frame (e.g., "Yesterday, [Who] [Action] [Where].").
-3.  **Fill:** Student maps signs to English slots. Colour-code Subject/Verb.
+**High-Leverage Practice: Frame & Fill**
+1. **Frame:** Empty slots: [Subject] [Verb] [Object].
+2. **Sign:** Student signs idea.
+3. **Map:** "Which sign is Subject? Put here."
+4. **Fill:** Write English words in slots.
 
-**Evidence Guide:**
-*   *Success:* Student uses frames independently; sentences become complete.
-*   *Failure:* Writing is unpunctuated stream; teacher rewrites for student.
+**Evidence Guide**
+- *Success:* Stops, checks frame, reorders words.
+- *Failure:* Stream of consciousness, no punctuation.
 
 ---
 
 ### Strategy Node: NZSL-Linked Vocabulary Systems
 
 <metadata>
-id: dom_a_vocab
-name: NZSL-Linked Vocabulary Systems
-type: vocabulary_intervention
-target_constraint: ["limited_word_bank", "difficulty_with_academic_vocabulary", "weak_category_knowledge"]
-triggers: ["doesn't know words", "limited vocabulary", "can't explain meaning", "forgets new words", "needs visuals"]
-complexity: medium
-time_required: daily_short_practice
+id: dom_2a_vocab
+title: NZSL-Linked Vocabulary Systems
+subdomain: 2A
+trigger_signs: ["limited word bank", "uses 'thing' for everything", "can't explain concepts"]
+do_now_2min: Show sign, picture, and word together.
+build_20min: Pre-teach 5 key terms using 4-Part Card system.
+success_looks_like: Uses academic term in NZSL and writing.
+common_failure_mode: "Dictionary work" - copying definitions.
+admin_enabler: Symbol software subscription.
 </metadata>
 
-**Problem / Access Barrier:**  
-Limited incidental vocabulary acquisition. Academic terms are often unknown.
+**Problem/Barrier**
+Missed "overheard" vocabulary. Gaps in Tier 2/3 vocabulary.
 
-**High-Leverage Practice: "Sign–Picture–Word–Category"**
-1.  **4-Part Card:** Sign + Picture + English Word + Category.
-2.  **Pre-Teach:** Front-load 5-8 key words before a unit.
-3.  **Active Use:** Sorting games, matching tasks.
+**High-Leverage Practice: 4-Part Vocab Cards**
+1. **Image:** Clear picture/icon.
+2. **Word:** English word (bold).
+3. **Sign:** Photo/video of sign.
+4. **Definition:** Simple definition.
 
-**Evidence Guide:**
-*   *Success:* Uses new words in context; sorts by category.
-*   *Failure:* Cannot match sign to word; vocabulary taught once and forgotten.
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** Real objects in a "Vocab Box". Picture matching games.
-*   **Secondary (Y7-13):** Digital Glossary (Quizlet/Anki) with sign videos. "Frayer Model" for subject-specific terms (Definition, Image, Example, Non-Example).
+**Evidence Guide**
+- *Success:* Refers to vocab ring/wall.
+- *Failure:* Memorizes spelling, doesn't know meaning.
 
 ---
 
 ### Strategy Node: NZSL Retell for Comprehension
 
 <metadata>
-id: dom_a_comprehension
-name: NZSL Retell as a Comprehension Strategy
-type: reading_comprehension_support
-target_constraint: ["surface_level_reading", "weak_inferencing", "limited_understanding_of_text_structure"]
-triggers: ["reads but doesn't understand", "can't answer questions", "fake reading", "robot reading", "no recall"]
-complexity: medium
-time_required: ongoing_during_reading_blocks
+id: dom_2a_comprehension
+title: NZSL Retell as a Comprehension Strategy
+subdomain: 2A
+trigger_signs: ["robot reading", "can't answer questions", "fake reading", "glossy eyes"]
+do_now_2min: Stop. "Tell me in sign what happened."
+build_20min: "Read-Cover-Retell" routine.
+success_looks_like: Stops reading to process, signs summary.
+common_failure_mode: Reading whole page without checking.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Decoding $\neq$ Comprehension. Students may read words but miss the "movie in the mind".
+**Problem/Barrier**
+Decoding is not comprehension. "Barking at print" without mental model.
 
-**High-Leverage Practice: "Read–Sign–Summarise"**
-1.  **Chunk:** Read short section.
-2.  **Retell:** Student retells in NZSL. Teacher checks understanding.
-3.  **Summarise:** Write 1-2 English sentences to capture the retell.
+**High-Leverage Practice: Read–Sign–Summarise**
+1. **Read:** Short chunk.
+2. **Sign:** Translate to NZSL.
+3. **Check:** Make sense? If not, re-read.
+4. **Summarise:** Write key word/sentence.
 
-**Evidence Guide:**
-*   *Success:* Accurate NZSL retell; written summary captures main idea.
-*   *Failure:* Retell misses key events; student copies text without understanding.
+**Evidence Guide**
+- *Success:* Explains plot/concept in NZSL.
+- *Failure:* Reads aloud perfectly, fails questions.
+
+---
+
+### Strategy Node: Inference Ladder
+
+<metadata>
+id: dom_2a_inference
+title: Inference Ladder with NZSL Retell
+subdomain: 2A
+trigger_signs: ["literal answers only", "says 'it doesn't say'", "misses the joke", "confused by fiction"]
+do_now_2min: "What are clues?" (Highlight). "What do they mean?"
+build_20min: Model "Clue + Background Knowledge = Inference".
+success_looks_like: Points to text evidence.
+common_failure_mode: Asking "Why?" without teaching *how*.
+admin_enabler: None.
+</metadata>
+
+**Problem/Barrier**
+Inference connects text clues with world knowledge. DHH students may lack incidental knowledge.
+
+**High-Leverage Practice: Literal → Local → Global**
+1. **Literal:** Find fact.
+2. **Local:** Connect facts in paragraph.
+3. **Global:** Connect text to world.
+4. **Bridge:** Use NZSL to explain "hidden meaning".
+
+**Evidence Guide**
+- *Success:* "I think X because text says Y."
+- *Failure:* Guesses wildly or "I don't know."
 
 ---
 
 ### Strategy Node: NZSL–English Code-Switching Awareness
 
 <metadata>
-id: dom_a_codeswitch
-name: NZSL–English Code-Switching & Register Awareness
-type: metalinguistic_awareness
-target_constraint: ["mixing_nzsl_and_english_structures", "inappropriate_register_in_writing", "confusion_about_language_boundaries"]
-triggers: ["writes in NZSL order", "confused languages", "informal writing", "mixes grammar", "signed english"]
-complexity: medium
-time_required: integrated_into_lessons
+id: dom_2a_codeswitch
+title: NZSL–English Code-Switching & Register Awareness
+subdomain: 2A
+trigger_signs: ["mixing grammar", "informal writing in essays", "confusion about language rules"]
+do_now_2min: Draw line. Left=NZSL. Right=English. Sort sentence.
+build_20min: "The Language Line" lessons - comparing grammars.
+success_looks_like: "In NZSL I do this, in English I do that."
+common_failure_mode: Treating NZSL as "broken English".
+admin_enabler: Deaf language models/tutors.
 </metadata>
 
-**Problem / Access Barrier:**  
-Confusion between language systems and registers (formal vs informal).
+**Problem/Barrier**
+Confusing rules of two languages. Need to see as separate systems.
 
-**High-Leverage Practice: "The Language Line"**
-1.  **Compare:** Show NZSL sentence vs English sentence. Discuss differences (word order, grammar).
-2.  **Register:** Sort phrases into "Casual/Text" vs "Formal/School".
-3.  **Explicit Switch:** "Now we are writing for the Principal (Formal English)."
+**High-Leverage Practice: The Language Line**
+1. **Compare:** NZSL gloss vs English sentence.
+2. **Analyze:** "Verb at end here, middle here."
+3. **Switch:** Practice translating back and forth.
 
-**Evidence Guide:**
-*   *Success:* Explains differences between NZSL/English; adjusts register.
-*   *Failure:* Writing mixes grammars randomly; no awareness of audience.
-
-**Age/Stage Variations:**
-*   **Primary (Y0-6):** "Playground Talk" vs "Mat Talk". Sorting pictures of people into "Formal" (Principal) vs "Casual" (Friend).
-*   **Secondary (Y7-13):** Analyzing text messages vs essays. Explicit instruction on "Academic English" as a separate dialect.
+**Evidence Guide**
+- *Success:* Self-corrects English word order.
+- *Failure:* Writes "House big red" in English.
 
 ---
 
 ## Subdomain 2B: Critical Thinking & Metalinguistics
-*Focus: Moving beyond "what" to "why", "how", and "what if".*
 
 ### Strategy Node: BICS ↔ CALP Awareness
 
 <metadata>
-id: dom_g_bics_calp
-name: BICS ↔ CALP Contrast & Bridging
-type: metalinguistic_awareness
-target_constraint: ["informal_language_in_formal_tasks", "difficulty_with_academic_register", "confusion_about_school_language_expectations"]
-triggers: ["talks fine but fails tests", "slang in essays", "can't do academic writing", "conversational only"]
-complexity: medium
-time_required: ongoing_mini_lessons
+id: dom_2b_bics_calp
+title: BICS ↔ CALP Contrast & Bridging
+subdomain: 2B
+trigger_signs: ["slang in essays", "talks well but fails tests", "can't read textbooks"]
+do_now_2min: "That's playground talk. How do we say it in 'Science talk'?"
+build_20min: "Word Wall" with Social vs Academic equivalents.
+success_looks_like: Swaps "blow up" for "explode/erupt".
+common_failure_mode: Assuming fluent social signing = academic readiness.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Gap between social language (BICS) and academic language (CALP).
+**Problem/Barrier**
+BICS (Social) develops naturally. CALP (Academic) must be taught. DHH students often stuck at BICS.
 
-**High-Leverage Practice: "Two Ways to Say It"**
-1.  **T-Chart:** "Everyday Talk" vs "School Talk".
-2.  **Translate:** Convert "The volcano blew up" -> "The volcano erupted."
-3.  **Link:** Show how NZSL register also changes (formal signing vs chat).
+**High-Leverage Practice: Two Ways to Say It**
+1. **Identify:** Catch informal phrase.
+2. **Translate:** Give academic term.
+3. **Practice:** Use academic term in sentence.
 
-**Evidence Guide:**
-*   *Success:* Identifies academic register; upgrades vocabulary in writing.
-*   *Failure:* Uses slang in formal essays; confused by exam language.
+**Evidence Guide**
+- *Success:* Recognizes difference between chat and academic.
+- *Failure:* Writes "The stuff mixed up" in report.
 
 ---
 
 ### Strategy Node: Reciprocal Teaching with NZSL Scaffolds
 
 <metadata>
-id: dom_g_reciprocal
-name: NZSL-Supported Reciprocal Teaching
-type: comprehension_strategy
-target_constraint: ["passive_reading", "limited_question_asking", "difficulty_monitoring_own_comprehension"]
-triggers: ["passive reader", "doesn't ask questions", "waiting for teacher", "surface learning", "bored reading"]
-complexity: high
-time_required: structured_group_sessions
+id: dom_2b_reciprocal
+title: NZSL-Supported Reciprocal Teaching
+subdomain: 2B
+trigger_signs: ["passive in groups", "waiting for answers", "surface level thinking"]
+do_now_2min: Assign role: "You are Questioner." Give stem.
+build_20min: Reciprocal Teaching circle with role cards.
+success_looks_like: Leads discussion using role.
+common_failure_mode: Teacher does all thinking/talking.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Passive reading habits. Difficulty monitoring own comprehension.
+**Problem/Barrier**
+Passive learning habits. Waiting to be "filled up". Need structured roles.
 
-**High-Leverage Practice: "Sign-Led Roles"**
-1.  **Roles:** Predictor, Questioner, Clarifier, Summariser.
-2.  **Visual Cards:** NZSL prompts for each role.
-3.  **Group Work:** Students take turns leading the text analysis using roles.
+**High-Leverage Practice: Sign-Led Roles**
+1. **Roles:** Predictor, Questioner, Clarifier, Summariser.
+2. **Cards:** Physical cards with NZSL prompts.
+3. **Rotate:** Switch roles every paragraph.
 
-**Evidence Guide:**
-*   *Success:* Independently uses strategies; asks clarifying questions.
-*   *Failure:* Passive in groups; roles used superficially.
+**Evidence Guide**
+- *Success:* Asks "What does this mean?" (Clarifier).
+- *Failure:* Sits silently.
 
 ---
 
 ### Strategy Node: Metalinguistic Talk (Language as Lego)
 
 <metadata>
-id: dom_g_morphology_talk
-name: Talking About Language: Morphology & Syntax
-type: metalinguistic_awareness
-target_constraint: ["limited_vocabulary_growth", "grammatical_errors_persisting", "difficulty_generalising_rules"]
-triggers: ["keeps making same mistakes", "doesn't understand rules", "can't fix own work", "repeats errors"]
-complexity: medium
-time_required: regular_mini_lessons
+id: dom_2b_meta_talk
+title: Talking About Language: Morphology & Syntax
+subdomain: 2B
+trigger_signs: ["repeats errors", "doesn't understand corrections", "can't explain rules"]
+do_now_2min: Use blocks/cards to show word parts.
+build_20min: "Sentence Surgery" - cut and glue sentence.
+success_looks_like: Explains *why* sentence is correct.
+common_failure_mode: Abstract grammar lectures without visuals.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Language rules seen as arbitrary corrections rather than a system.
+**Problem/Barrier**
+Language rules feel arbitrary. Need to see language as building blocks (Lego).
 
-**High-Leverage Practice: "Language as Lego"**
-1.  **Manipulatives:** Word parts (prefix, root, suffix) on cards.
-2.  **Build/Break:** Physically move parts to change meaning (un-happy, happy-ness).
-3.  **Meta-Talk:** Use NZSL signs for "verb", "noun", "past tense".
+**High-Leverage Practice: Language as Lego**
+1. **Manipulate:** Cards for prefixes, roots, suffixes.
+2. **Build:** "Make 'unhappy'. Now 'happiness'."
+3. **Discuss:** How meaning changed.
 
-**Evidence Guide:**
-*   *Success:* Discusses language structure ("I need to add -ed"); generalises rules.
-*   *Failure:* Cannot explain why a sentence is wrong; relies on teacher correction.
+**Evidence Guide**
+- *Success:* Generalizes rule to new words.
+- *Failure:* Treats every word as unique.
 
 ---
 
 ### Strategy Node: Theory of Mind & Perspective Taking
 
 <metadata>
-id: dom_g_theory_of_mind
-name: Theory of Mind & Perspective Narratives
-type: social_cognition_support
-target_constraint: ["difficulty_inferencing_characters_thoughts", "literal_interpretation_of_texts", "social_misunderstandings"]
-triggers: ["doesn't get characters", "misses the point", "socially awkward", "literal thinker", "misses sarcasm"]
-complexity: medium
-time_required: ongoing_in_reading_and_social_learning
+id: dom_2b_theory_mind
+title: Theory of Mind & Perspective Narratives
+subdomain: 2B
+trigger_signs: ["social awkwardness", "misses sarcasm", "literal interpretations", "doesn't get motives"]
+do_now_2min: Draw "Thought Bubble". "What are they thinking?"
+build_20min: Role-play. "If you say X, how will they feel?"
+success_looks_like: Identifies hidden motives.
+common_failure_mode: Punishing "rude" behavior (ToM gap).
+admin_enabler: Social skills groups.
 </metadata>
 
-**Problem / Access Barrier:**  
-Missed incidental social talk leads to gaps in understanding others' mental states/intentions.
+**Problem/Barrier**
+Missed incidental chatter leads to gaps in "Theory of Mind" (understanding others' thoughts).
 
-**High-Leverage Practice: "Thought Bubbles"**
-1.  **Visuals:** Draw thought bubbles vs speech bubbles on characters.
-2.  **Ask:** "What are they saying? What are they *thinking*?"
-3.  **Role Play:** Act out misunderstandings in NZSL.
+**High-Leverage Practice: Thought Bubbles**
+1. **Visual:** Draw speech AND thought bubbles.
+2. **Contrast:** "Said 'Fine', thought 'Angry'."
+3. **Infer:** "Why did he lie?"
 
-**Evidence Guide:**
-*   *Success:* Infers hidden motives/feelings; explains social misunderstandings.
-*   *Failure:* Literal interpretation only; misses sarcasm or deceit in stories.
+**Evidence Guide**
+- *Success:* Explains people hide true feelings.
+- *Failure:* Takes everything literally.
 
 ---
 
 ### Strategy Node: Argumentation & Justification (PRE)
 
 <metadata>
-id: dom_g_argumentation
-name: Structured Argumentation & Justification
-type: reasoning_and_writing_support
-target_constraint: ["opinion_only_responses", "weak_explanations", "difficulty_justifying_answers"]
-triggers: ["weak arguments", "can't explain why", "simple opinions", "no evidence", "just says yes/no"]
-complexity: high
-time_required: ongoing_across_subjects
+id: dom_2b_argumentation
+title: Structured Argumentation & Justification (PRE)
+subdomain: 2B
+trigger_signs: ["weak arguments", "because I said so", "no evidence", "simple opinions"]
+do_now_2min: Ask "Why?" and demand "Because..."
+build_20min: Teach PRE structure: Point, Reason, Example.
+success_looks_like: Structures argument logically.
+common_failure_mode: Accepting one-word answers.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-Giving answers without reasons. Difficulty structuring an argument.
+**Problem/Barrier**
+Opinions stated as facts without backing. Lack structure.
 
-**High-Leverage Practice: "Point–Reason–Example (PRE)"**
-1.  **Structure:** Point (I think...), Reason (Because...), Example (For instance...).
-2.  **Visual Template:** Graphic organizer for PRE.
-3.  **Model:** Teacher models argument in NZSL, then maps to English.
+**High-Leverage Practice: P.R.E.**
+1. **Point:** What do you think?
+2. **Reason:** Why? (Because...)
+3. **Example:** Evidence. (For example...)
 
-**Evidence Guide:**
-*   *Success:* Uses "because/therefore"; supports opinions with evidence.
-*   *Failure:* One-word answers; opinions stated as facts without backing.
+**Evidence Guide**
+- *Success:* Uses "Because" and "For example".
+- *Failure:* Repeats opinion louder.
+
+---
+
+### Strategy Node: Paragraph Frames + Cohesion Devices
+
+<metadata>
+id: dom_2b_paragraph
+title: Paragraph Frames & Cohesion Toolkit
+subdomain: 2B
+trigger_signs: ["messy writing", "lists of sentences", "no flow", "jumpy logic"]
+do_now_2min: Paragraph starter: "Firstly...", "However..."
+build_20min: Teach cohesion words (Time, Cause).
+success_looks_like: Writing flows logically.
+common_failure_mode: "Write more" feedback without structure.
+admin_enabler: None.
+</metadata>
+
+**Problem/Barrier**
+Ideas present but unorganized. "Brain dump". Missing "glue" words.
+
+**High-Leverage Practice: Frame → Link → Release**
+1. **Frame:** Paragraph skeleton.
+2. **Link:** Teach connectives (Therefore, However).
+3. **Release:** Remove frame slowly.
+
+**Evidence Guide**
+- *Success:* Uses paragraphs to separate ideas.
+- *Failure:* One giant block of text.
 
 ---
 
 ### Strategy Node: Metacognitive Traffic Lights
 
 <metadata>
-id: dom_g_metacognition
-name: Understanding Traffic Lights
-type: self_monitoring_support
-target_constraint: ["student_does_not_signal_confusion", "passive_compliance", "over_reliance_on_nodding"]
-triggers: ["nods but doesn't understand", "hides confusion", "pretends to know", "afraid to ask", "compliance nod"]
-complexity: low
-time_required: routine_practice
+id: dom_2b_traffic_lights
+title: Understanding Traffic Lights (Self-Monitoring)
+subdomain: 2B
+trigger_signs: ["compliance nod", "hiding confusion", "copying peers", "passive"]
+do_now_2min: "Show me: Green (Good), Orange (Stuck), Red (Lost)."
+build_20min: Normalize "Red Light" as brave/smart.
+success_looks_like: Admits when they don't understand.
+common_failure_mode: Accepting the nod.
+admin_enabler: None.
 </metadata>
 
-**Problem / Access Barrier:**  
-The "Compliance Nod"—pretending to understand to avoid standing out.
+**Problem/Barrier**
+"Compliance Nod" is survival strategy. Pretending to understand to avoid shame.
 
-**High-Leverage Practice: "Red–Orange–Green"**
-1.  **Scale:** Green (I can teach it), Orange (I'm stuck on a bit), Red (I'm lost).
-2.  **Routine:** Regular "show me your colour" checks.
-3.  **Safety:** Praise "Red" responses as good learning behaviour.
+**High-Leverage Practice: Red–Orange–Green**
+1. **Check:** Stop lesson. "Traffic Lights."
+2. **Honesty:** Reward "Red".
+3. **Action:** "Red" = re-teach/different way.
 
-**Evidence Guide:**
-*   *Success:* Student signals confusion honestly; stops the lesson to ask.
-*   *Failure:* Student nods "Green" but cannot do the task.
+**Evidence Guide**
+- *Success:* Stops teacher to ask for clarification.
+- *Failure:* Smiles and nods, fails task.
 
 ---
 
 ### Strategy Node: Critical Literacy (Deaf Lens)
 
 <metadata>
-id: dom_g_critical_literacy
-name: Critical Literacy with DHH Lived Experience
-type: critical_thinking_support
-target_constraint: ["unquestioned_acceptance_of_texts", "limited_awareness_of_bias", "underrepresentation_of_deaf_perspectives"]
-triggers: ["believes everything they read", "doesn't see bias", "passive consumer", "no critical view"]
-complexity: high
-time_required: intentional_unit_planning
+id: dom_2b_critical_lit
+title: Critical Literacy with DHH Lived Experience
+subdomain: 2B
+trigger_signs: ["passive acceptance", "internalized audism", "doesn't question text"]
+do_now_2min: "Who wrote this? What do they think about Deaf people?"
+build_20min: Analyze texts for "Hearing Privilege". Rewrite from Deaf perspective.
+success_looks_like: Questions author's bias.
+common_failure_mode: Only reading texts about hearing people.
+admin_enabler: Library budget for Deaf-authored books.
 </metadata>
 
-**Problem / Access Barrier:**  
-Texts often reflect hearing-centric norms. DHH students need to see themselves and question bias.
+**Problem/Barrier**
+Texts center hearing norms. Need to see self and question bias.
 
-**High-Leverage Practice: "Who is Speaking?"**
-1.  **Question:** "Whose voice is missing? How is deafness represented?"
-2.  **Deaf Gain:** Read texts by Deaf authors.
-3.  **Rewrite:** Rewrite stories from a Deaf perspective.
+**High-Leverage Practice: Who is Speaking?**
+1. **Source:** Who wrote this?
+2. **Missing:** Whose voice missing?
+3. **Flip:** How would story change if character was Deaf?
 
-**Evidence Guide:**
-*   *Success:* Identifies bias; expresses pride in Deaf identity; questions texts.
-*   *Failure:* Accepts deficit views of deafness; passive consumption of text.
+**Evidence Guide**
+- *Success:* Identifies bias/gaps.
+- *Failure:* Accepts text as absolute truth.
+
+---
+
+# Minimum Viable School Standard
+- **Visual Grammar:** Colour-coding for morphology.
+- **Vocab Prep:** Key vocab provided 24h in advance.
+- **No Fake Reading:** Check comprehension after every paragraph.
+- **Traffic Lights:** Signal for "I don't understand".
+- **NZSL Value:** Valid academic language for planning.
+- **Captions:** All media captioned.
+
+# Quick Audit Checklist
+- [ ] Pre-taught key vocab?
+- [ ] Grammar colour-coded?
+- [ ] Checked comprehension?
+- [ ] Sentence frame provided?
+- [ ] Asked "Why?" and waited?
+- [ ] Using NZSL to plan?
+- [ ] Checked "Traffic Lights"?
+- [ ] Accepting "Compliance Nod"? (Don't!)
+
+# PLD Rollout Suggestion
+- **Week 1:** "Compliance Nod" - Spot and stop.
+- **Week 5:** "Visual Grammar" - Colour-coding.
+- **Week 9:** "Bi-Literacy Bridge" - NZSL to teach English.
+
+NEXT: paste Domain X+1
