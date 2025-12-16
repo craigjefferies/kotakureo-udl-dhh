@@ -14,6 +14,31 @@
 3. **Output Check:** Can manipulate idea (critical thinking) vs copying?
 4. **Intervene:** 1 fails=teach concept. 2 fails=teach vocab/grammar. 3 fails=teach scaffolds.
 
+## Cross-Cutting Engines (used across Domain 2)
+
+### Chaining: The Core Biliteracy Engine (NZSL ↔ Print)
+
+Chaining is the cross-strategy mechanism teachers use to deliberately link:
+- **Concept** (NZSL meaning)
+- **Form** (fingerspelling / handshape detail)
+- **Symbol** (print)
+- **Meaning** (context and use)
+
+Use chaining across concept-building, vocabulary, print mapping, spelling, grammar, and bridging between NZSL, English, and Te Reo Māori.
+
+**Look-fors**
+- Student can move NZSL → fingerspelling → print (and back) without losing meaning.
+- Teacher names which link in the chain is being strengthened (concept, form, symbol, meaning).
+
+### Fingerspelling: Language Structure, Bridge, and Repair
+
+Fingerspelling is not only a reading support. In this domain it functions as:
+- **A language structure** for representing names and new/precise vocabulary
+- **A bridge across languages** when a sign is unknown, variable, or still developing
+- **A repair and advocacy strategy** (“I can spell it / show it / write it”) that increases autonomy
+
+Cross-domain note: this same repair power supports self-advocacy and identity work in Domain 4.
+
 ---
 
 ## Subdomain 2A: The Bi-Literacy Bridge (NZSL ↔ English)
@@ -249,7 +274,16 @@ Confusing rules of two languages. Need to see as separate systems.
 
 ---
 
-## Subdomain 2B: Critical Thinking & Metalinguistics
+## Subdomain 2B: Critical Thinking & Metalinguistic Awareness
+
+### Metalinguistic Awareness (name the work)
+
+Teachers are already teaching language *about* language. Naming it builds confidence and supports deliberate planning.
+
+**Examples teachers already use**
+- **Negation:** Teach NOT with clear visuals and NZSL non-manual signals (NMS).
+- **Degree:** Calibrate intensity for emotions and weather (e.g., “a bit” → “very”).
+- **Multiple meanings:** Use real class examples (e.g., the “Paul Buzzard” name/meaning confusion) to teach categories and context.
 
 ### Strategy Node: BICS ↔ CALP Awareness
 

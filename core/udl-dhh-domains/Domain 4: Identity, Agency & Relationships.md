@@ -14,6 +14,19 @@
 3. **Connection:** Has at least one genuine friend?
 4. **Identity:** Views self as "broken" or "Deaf/Hard of Hearing"?
 
+## Bridge Note: Language as Emotional & Identity Safety
+
+Precise, accessible language is a wellbeing intervention.
+- **Language reduces frustration:** clearer meaning → fewer breakdowns.
+- **First-language strength protects:** strong NZSL supports confidence and belonging.
+- **Emotion vocabulary enables regulation:** learners can name feelings and needs, not act them out.
+
+**Guardrails**
+- Don’t mislabel language confusion as “behaviour”.
+- Don’t underestimate language deprivation impacts on wellbeing.
+
+See also: Domain 2 (Chaining, fingerspelling, metalinguistic teaching) for the language tools that make this possible.
+
 ---
 
 ## Subdomain 4A: Mana Motuhake (Identity & Agency)
@@ -62,6 +75,8 @@ admin_enabler: None.
 
 **Problem/Barrier**
 "Nodding/coping" masks access gaps. Fear of appearing "difficult" prevents asking.
+
+Note: Fingerspelling can be a fast repair/advocacy move (“I can spell it / write it”); see Domain 2.
 
 **High-Leverage Practice: "STOP–NAME–ASK"**
 1. **Stop:** Signal to pause (Hand signal/T-sign).

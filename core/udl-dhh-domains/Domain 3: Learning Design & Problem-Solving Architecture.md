@@ -14,6 +14,9 @@
 3. **Scaffold Check:** Support visible on desk?
 4. **Independence Check:** Can do "You Do" phase?
 
+**Routing cue**
+Use this domain after concept and language are secure (Domain 2), when the learner needs help with process, structure, or independence.
+
 ---
 
 ## Subdomain 3A: Explicit Teaching & Scaffolding
